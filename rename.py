@@ -1,7 +1,6 @@
 import pandas as pd
 import os
 import argparse as arg
-import sys
 
 # Add command line arguments
 parser = arg.ArgumentParser()
