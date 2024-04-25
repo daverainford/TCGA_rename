@@ -21,11 +21,9 @@ mapping = {}
 # Iterate over files in sample sheet and create our lab ID from metadata and map to file id from samples sheet
 for name, id, sample in zip(sample_data["File Name"], sample_data["Case ID"], sample_data["Sample Type"]):
     if sample == "Primary Tumor" or sample == "Metastatic":
-        mapping[name] = f"{name.split('_')[0]}_{id}_T.{args.file_suffix}"
+        mapping[name] = f"{name}_{id}_T.{args.file_suffix}"
     if sample == "Blood Derived Normal":
-        mapping[name] = f"{name.split('_')[0]}_{id}_N.{args.file_suffix}"
-
-print(mapping)
+        mapping[name] = f"{name}_{id}_N.{args.file_suffix}"
 
 # Iterate over files, ignoring .DS_Store, and rename them according to the dictionary mapping.
 for file in files:
