@@ -1,0 +1,836 @@
+File ID	File Name	Data Category	Data Type	Project ID	Case ID	Sample ID	Sample Type
+66ffab87-0426-41eb-967e-dd0ef94c8add	5e047d9d-4d87-409b-a52f-83fa7e5c7d6a_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0332-C43	HCM-BROD-0332-C43-10A	Blood Derived Normal
+59c2a703-ea18-496d-84ba-33842fdff715	a8eb1adc-2ae7-423f-9c86-2a4ac6cf7c23_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0557-C43	HCM-BROD-0557-C43-06A	Metastatic
+ea1150e0-7c3b-4a72-aa80-b144d8d11ca2	b95fb706-4a05-41cb-bfd0-fa46afaef8d9_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0557-C43	HCM-BROD-0557-C43-85M	Next Generation Cancer Model
+a523d649-eb70-4948-94d4-b62c2d3fe092	665797b6-021d-4cf4-8be5-138db70b1211_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-DA-A3F5	TCGA-DA-A3F5-10A	Blood Derived Normal
+b0890bae-c783-4752-bf01-33b7810ce8d3	c96762c7-78d0-49b8-a731-23b9158a0f5f_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A3J5	TCGA-EE-A3J5-10A	Blood Derived Normal
+7237fc58-5916-4172-b08a-ae8463b9809b	f8fa24d5-db63-4545-bcdd-55b50e01bc3e_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-DA-A1I5	TCGA-DA-A1I5-06A	Metastatic
+79202a41-bc76-4770-a8d9-247d5dc8c2dd	b4c34c6e-b437-4ae6-b1e1-344c6a9c660a_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2ME	TCGA-EE-A2ME-06A	Metastatic
+109ac0b4-c650-4c58-b4e2-7d907950d7ad	332d373a-a849-4b7e-854a-38dc56dc627d_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A29D	TCGA-EE-A29D-06A	Metastatic
+00d726ea-bff2-46c0-b918-883173f9a60e	ce3b3b8e-f249-4dde-89f2-df62b327eb65_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A42Y	TCGA-EB-A42Y-01A	Primary Tumor
+ebcee8b9-fd07-41d9-9071-ce7a2040e4e7	4ce82b85-930e-4789-a0fd-112777904e68_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-GN-A269	TCGA-GN-A269-01A	Primary Tumor
+61de6d42-d41b-4189-aa61-4a9980ac6a22	fbd2908c-3eb1-41f4-9ab8-28614255431f_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A42Y	TCGA-EB-A42Y-10A	Blood Derived Normal
+9e608c61-393a-4564-bb78-8425e485aef4	c9b5b1f1-3cf7-4b93-8819-cd3d626bb6d0_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A19K	TCGA-ER-A19K-10A	Blood Derived Normal
+427b0025-8f9e-4773-a79c-5ef7f50faaba	ab390594-05f0-4b2f-ad4d-cd680f6cb7fb_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1ZY	TCGA-FS-A1ZY-06A	Metastatic
+506e858d-2460-43ed-8eb2-d9425c7caf26	09813947-8bfd-48a8-b0c9-e2fd7699beba_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1ZT	TCGA-FS-A1ZT-10A	Blood Derived Normal
+466024ab-c5ab-472d-9d57-aef7db722a73	b2d7e50b-8eea-47f9-b38e-cd37ef6a8be6_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D3-A5GT	TCGA-D3-A5GT-10A	Blood Derived Normal
+3889a298-d93f-45c4-9052-6a80a332d946	65c5fdd8-86e3-4aca-9dfb-46cdf39e49bc_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-HR-A2OG	TCGA-HR-A2OG-10A	Blood Derived Normal
+684fa165-df05-472a-8f60-05e275da9536	7ed57f3a-334b-465c-a179-632f84fcd10e_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-HR-A2OG	TCGA-HR-A2OG-06A	Metastatic
+40868334-0a78-4ed1-8c2b-30e51a7e10bf	a6a5cebf-fbb3-4228-b776-b3b792d0574b_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1ZH	TCGA-FS-A1ZH-06A	Metastatic
+964c00d5-51c8-4a85-a1e6-9e7804e31302	10bb1a92-901e-4a14-80f4-5e88f997754b_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2GN	TCGA-EE-A2GN-06A	Metastatic
+88db9930-9052-4eb1-804f-394cafc7307a	c845216b-b988-4619-a50f-fad3c55a260b_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-AAP8	TCGA-BF-AAP8-01A	Primary Tumor
+5206a39f-029e-41d0-8dab-d82e950e5f31	db6d7c82-4a9a-4e2f-adfa-5dca0d580293_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A19T	TCGA-ER-A19T-01A	Primary Tumor
+3b3246d6-c957-4d81-8551-91e8334be658	567a575c-97b9-475c-8954-5f4e868f0a83_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-DA-A1HY	TCGA-DA-A1HY-10A	Blood Derived Normal
+5a75a009-1671-49e7-a2d2-b4d2537edeb0	538afaf8-22f1-4e4d-a83d-5de08b257edc_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-DA-A1HY	TCGA-DA-A1HY-06A	Metastatic
+af479905-5f3c-42b6-bf10-93b7ef613dfb	3efae3ec-f99e-40c8-8265-0fba134e19eb_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D3-A3CC	TCGA-D3-A3CC-10A	Blood Derived Normal
+00fe3fea-69cd-4a5a-b50d-9692af336f76	26cd8807-d47b-4d9b-bb4a-4c40745b4c36_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1YW	TCGA-FS-A1YW-06A	Metastatic
+63456415-07f0-4efa-9dc0-4f8eb89c5279	c32c9113-5c0c-4611-be23-1330f0a5aa43_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D3-A5GT	TCGA-D3-A5GT-01A	Primary Tumor
+38f9e4d0-e867-45cd-ab55-a73aa15e4650	2a442b87-f40b-4cde-b313-0dc979c8f04d_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A3XF	TCGA-EB-A3XF-01A	Primary Tumor
+1ae92f0e-c4d1-4add-af27-667636aa82be	f7e5b9a6-e556-4da7-ac55-b0312c05df0f_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D9-A148	TCGA-D9-A148-10A	Blood Derived Normal
+c771f849-133a-4a2f-86f6-d7e8a15f1e0d	b69afd53-07d1-49e8-9049-06d83d6458ff_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D3-A1Q8	TCGA-D3-A1Q8-10A	Blood Derived Normal
+3c4c2961-8bca-41f3-b10d-344f32535933	efefe679-6e4c-4ece-8900-2d76baf386a2_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-GN-A4U5	TCGA-GN-A4U5-10B	Blood Derived Normal
+d14e7cc6-8ac5-40ba-ac5d-e544bd3775e8	5c001667-5412-4e44-806e-a1040f0f300a_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-DA-A1I8	TCGA-DA-A1I8-10A	Blood Derived Normal
+34f01057-3211-485a-9ed1-76e264a6c188	033506c2-a0d7-4e02-b9f5-f3ade80f7094_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A29Q	TCGA-EE-A29Q-10A	Blood Derived Normal
+bcab80ae-d44d-4306-8a9a-7c7853f64e88	b556642a-ad7e-4cd0-8fdc-dfdd9bc87962_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-XV-AAZV	TCGA-XV-AAZV-01A	Primary Tumor
+ffa2e93e-1bde-42d3-b62f-40c0189fc81a	570cfabf-e4d9-4299-9be2-e681032197b0_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-XV-AAZV	TCGA-XV-AAZV-10A	Blood Derived Normal
+0089f68f-fbf0-40c9-9f65-e5b1eb54d3f6	e581778b-21c0-4de9-9d03-b37046313700_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A29Q	TCGA-EE-A29Q-06A	Metastatic
+7158d3e9-9569-4a89-93e1-bfac4512a51a	e478f5fd-9c6d-4169-a023-b78d5f925ebd_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A194	TCGA-ER-A194-10A	Blood Derived Normal
+7ea453c9-f49b-4bc6-93c0-0525ca447338	f96dd387-37ca-4ede-9851-4eb769271d76_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1ZW	TCGA-FS-A1ZW-06A	Metastatic
+7778d4f3-adf6-4949-8055-ac46314b2339	42459505-f523-4867-8f3d-5d1d198fd64e_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A5FP	TCGA-EB-A5FP-01A	Primary Tumor
+7171d210-c599-43a9-b602-3b453567330d	9eae9c8d-45fa-4a49-8f70-1ab43e6598f9_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1Z3	TCGA-FS-A1Z3-06A	Metastatic
+c1b490e2-cb85-487d-bb93-ba7b0fc4165f	1b87eb2d-2f57-4cbd-8a00-57a0eb69ac7c_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A29T	TCGA-EE-A29T-06A	Metastatic
+ff259cb9-118e-4668-88bf-700fadf4356d	626e455c-5340-4095-8d27-d1d83615d201_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D3-A2JD	TCGA-D3-A2JD-10A	Blood Derived Normal
+75a593c7-693b-4c7b-904c-38738b20a0e9	512af874-0ba3-4bd2-a1fe-361c73f3eadf_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D3-A2JD	TCGA-D3-A2JD-06A	Metastatic
+b16d04e1-7366-4520-8f43-519ad150facd	db2d94a9-5b22-4163-ae7a-1da11f7037a6_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A2NF	TCGA-ER-A2NF-01A	Primary Tumor
+2e39979d-dbef-4dcc-bd1b-072553f801d4	7a49b1e5-5fb7-4a7e-85ba-f4c357089023_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1ZU	TCGA-FS-A1ZU-10A	Blood Derived Normal
+b49cedb7-9821-4577-af95-ed9e3a51e381	fe8c62a6-c113-46e8-ab91-fdb90bb6a59f_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1ZU	TCGA-FS-A1ZU-06A	Metastatic
+90879e56-088f-4c62-9301-77412e2b3789	60adadde-d83b-4427-9ae8-aea0544b4b34_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-DA-A1HY	TCGA-DA-A1HY-10A	Blood Derived Normal
+988894f7-15fa-40d4-809a-42d60eb538ac	88f2c496-3eb4-4c03-b3a5-8d5a55803aaf_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-DA-A1HY	TCGA-DA-A1HY-06A	Metastatic
+6ee66bd0-ed2b-4a75-89b6-5133812d5de7	390b3574-ba23-4ecb-acf8-f5ad8a958bd2_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A193	TCGA-ER-A193-10A	Blood Derived Normal
+cd4a129c-600c-4d3f-8a5c-c14050970fec	8bd770ef-85a8-4bc8-b38f-fbd2e91f9d39_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-GN-A263	TCGA-GN-A263-10A	Blood Derived Normal
+580d65f4-7c2e-4189-90e2-a420538e9266	1c223d12-f969-4226-95b7-ea222ae16b01_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-GN-A263	TCGA-GN-A263-01A	Primary Tumor
+4fa41bf1-0a03-477b-802e-b9e697d904fb	43bf6a29-b215-4d20-8348-209e75671526_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A24C	TCGA-EB-A24C-01A	Primary Tumor
+93b6d4bd-ce12-4b5b-9e3e-5568a89d6092	38a1abf6-ef0c-43d2-aea6-b00431957213_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A24C	TCGA-EB-A24C-10A	Blood Derived Normal
+d36e2de4-96a1-4a18-9e43-a4768e55d851	8ac49aae-2c7c-4426-9faa-b4652a8d51a8_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A19O	TCGA-ER-A19O-10A	Blood Derived Normal
+5f9d25ea-2c85-41a6-ac47-4f23ca0721e9	74e4ce9c-4bb0-4c62-bdf8-2260d76f3306_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A2NF	TCGA-ER-A2NF-10A	Blood Derived Normal
+3541db3c-ab69-4043-b299-8d1a06f0765e	65d9054f-653a-4a10-9e25-1fe617481aa2_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2GN	TCGA-EE-A2GN-10A	Blood Derived Normal
+0f45a027-71b7-4cce-a474-e044faddd044	f621cc23-047b-4e89-b6d6-b407ff00c7a3_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A2NF	TCGA-ER-A2NF-10A	Blood Derived Normal
+42ab5d82-59d0-477a-a1d9-d46bf33243e6	b86befc7-9b14-40c8-82fb-8ed70c8b36c0_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A2NF	TCGA-ER-A2NF-06A	Metastatic
+56719f4f-e018-4e89-85a1-c1862984e642	28cd8467-df08-4ae9-b50a-f7c7ed3f60f3_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1Z0	TCGA-FS-A1Z0-10A	Blood Derived Normal
+5cfaad83-2ab2-4d5a-946e-eb9d7e09a3c3	a4f5d513-23b9-40b9-b25e-4cbd48873084_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D9-A4Z5	TCGA-D9-A4Z5-10A	Blood Derived Normal
+45dee9ed-0180-48a3-a593-5bc12aaaa82a	2ea039f3-b715-4ea4-9d71-0509730885e2_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-DA-A1I8	TCGA-DA-A1I8-10A	Blood Derived Normal
+a3d8b0ee-c913-4064-ab83-bb707e0b0528	7b8e839f-740b-4bde-98b8-44ea426d0f52_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2A6	TCGA-EE-A2A6-10A	Blood Derived Normal
+a56c5b13-06f8-42ba-b707-6e55cf4ab75a	5b1e6d7a-4f03-4b25-8fbe-1147f7441218_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A194	TCGA-ER-A194-01A	Primary Tumor
+0fcdc9f3-27b0-40c8-9f0c-2ecfbbf6d8c4	411370dc-4c66-484f-ac7e-42a19e486dfc_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A194	TCGA-ER-A194-01A	Primary Tumor
+83ac8912-32dc-4625-81b3-2db2c1ee5f8b	e498cb49-0df9-4fb6-a426-4b09202c16d6_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-DA-A1I2	TCGA-DA-A1I2-10A	Blood Derived Normal
+d0c23fe4-123d-41e4-8227-08cb4069ea81	ffbde34f-a8f9-458a-9022-ec29d8ec6277_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-DA-A1I2	TCGA-DA-A1I2-06A	Metastatic
+374020e4-87ef-4ac4-8cf3-3fc64e6ff062	54de31e4-2804-42a5-a24b-c2657545564a_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-AAP6	TCGA-BF-AAP6-01A	Primary Tumor
+6a46dd21-555f-4c6e-bc24-fe003be065ae	01285377-c51d-46c6-9f23-2639d151ac28_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1Z7	TCGA-FS-A1Z7-06A	Metastatic
+25df0495-d971-4126-bc7c-cc792e6b5817	f0195aa4-9e9c-4b23-8fc7-4671385a687d_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A29T	TCGA-EE-A29T-10A	Blood Derived Normal
+fa958826-d22b-48cd-b1e9-57fc7e9abd57	020b5e9e-9910-4ccb-97b7-ea33f8e7cd0b_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A5SF	TCGA-EB-A5SF-10A	Blood Derived Normal
+e476e152-8a1d-4b8b-9eef-4fdd93dacd61	189a39f9-d385-4dbe-9de6-0cdbb00e0bda_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A19E	TCGA-ER-A19E-06A	Metastatic
+953226f6-4d5e-4021-ac12-a8233d63512d	ef4062b4-1dd7-4621-b0fa-347155b839bd_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A6R0	TCGA-EB-A6R0-10B	Blood Derived Normal
+20fb3533-7489-478d-9861-00bd83357481	7cf2b294-2ee5-4aac-98cf-30e9fa1c374b_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2MN	TCGA-EE-A2MN-06A	Metastatic
+17dd4400-d616-455a-9900-e169ae0197f5	5100c485-25c0-4c50-bcc6-61676515594c_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A194	TCGA-ER-A194-10A	Blood Derived Normal
+2b4763e6-b38c-4f60-9fa7-f9468645d9af	d432e99a-67fb-4609-b90f-99438eee7cae_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-DA-A1I2	TCGA-DA-A1I2-06A	Metastatic
+a8fcf3a8-2bf9-4923-9321-66e283f6a0fd	42c7aac2-ea71-4e4c-81cd-1bead1d3da9d_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1ZW	TCGA-FS-A1ZW-10A	Blood Derived Normal
+2336c57e-b363-4e84-90fa-2982a124c685	07583c97-a4da-4856-ae27-44bf71c9a3d3_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1Z3	TCGA-FS-A1Z3-10A	Blood Derived Normal
+0d32755e-a904-4514-895e-2361e5edd999	e202f603-4e1e-451b-ae65-78f232d7162d_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A20H	TCGA-EE-A20H-10A	Blood Derived Normal
+fa57de00-2ed1-4eac-b3db-796b74baf726	45f0846f-66b7-49b9-a950-cbcd1d5aba94_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1ZZ	TCGA-FS-A1ZZ-06A	Metastatic
+885bedec-c56a-45fc-8a98-1e0f14615b72	876b574e-6381-47ed-a60b-0e7216f3d665_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1ZF	TCGA-FS-A1ZF-06A	Metastatic
+a07795af-dadd-4123-883f-bcb96dabf683	f6f00971-49ee-4117-bc43-5e466d55c16c_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A6R0	TCGA-EB-A6R0-01A	Primary Tumor
+4eb20b7b-245e-4ff4-9eef-1919fdb507d6	4577be4b-3ca2-48a1-82b2-6cb50e1daba3_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1YW	TCGA-FS-A1YW-10A	Blood Derived Normal
+1a29dce4-1ac1-448f-823f-cc55a229078e	e3e60482-506a-4226-a44d-dd0062514cd1_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A19T	TCGA-ER-A19T-06A	Metastatic
+a5f61ec6-579a-41c4-9d1f-6c27b39a9832	74f05e46-0aeb-4a0e-924f-546b009bf0a3_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-DA-A1I0	TCGA-DA-A1I0-10B	Blood Derived Normal
+f40dad10-ed69-42d5-af3b-356e0ce48757	d7e884b1-ab8a-4225-9fc9-a2a6fd8f4660_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D9-A148	TCGA-D9-A148-06A	Metastatic
+e007c11a-a5e4-4e7f-b1d0-4380ccf40e87	15daadb0-6b24-4248-9225-470dc08f1552_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A2NF	TCGA-ER-A2NF-06A	Metastatic
+f28d5fed-617b-45e3-9df8-686cea4e0b09	f0d22e58-5486-47c4-a316-e974e2bcbae6_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A2NF	TCGA-ER-A2NF-10A	Blood Derived Normal
+c3791fdf-c3e6-47b6-96eb-d8e12c6367eb	0884fdf3-7a20-43bc-bf57-e71f36e11ab9_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A2NF	TCGA-ER-A2NF-01A	Primary Tumor
+68cc3ef9-47b1-4469-b685-4756b74996d2	099217a3-777f-4d2a-bce0-89e189708068_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A2NF	TCGA-ER-A2NF-01A	Primary Tumor
+9761400a-6a32-4e32-a139-65c8fa20fa25	ce0be99d-0c07-4338-96a6-799d8f5a6c38_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D3-A1Q8	TCGA-D3-A1Q8-06A	Metastatic
+1438c9c7-618d-441b-aa32-639a9a755231	3f98d326-5676-4257-9af8-0a5f5d3c2527_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A19T	TCGA-ER-A19T-06A	Metastatic
+0028ed08-7ca8-4b51-a17a-afa0fe93996c	c36c8da7-1f45-4856-9d0c-2ea06d2cbad3_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-AAP8	TCGA-BF-AAP8-10A	Blood Derived Normal
+630da14f-3849-417e-b66f-2f21c625a954	f4c9d6f7-892b-4f30-932d-7b0cf6ff6540_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A57M	TCGA-EB-A57M-10A	Blood Derived Normal
+6f4a5320-ac34-4e0c-af90-6e88479f5d15	8a8cc4e3-c877-43a1-bd00-9faa04ca6e66_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2MN	TCGA-EE-A2MN-10A	Blood Derived Normal
+ddd5fba9-5569-4163-928a-a918b51c9182	8d5ffe62-6dd9-4764-b0b7-5e3010eefe6d_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A19L	TCGA-ER-A19L-06A	Metastatic
+088f6747-1bc4-49b6-a099-ca9a66550309	338df758-f109-4331-8d51-b3ee0eab4229_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A19L	TCGA-ER-A19L-10A	Blood Derived Normal
+4807b3de-34af-4154-8307-995f59a2b6e1	05470862-423d-4b50-b41a-31a58581c740_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D9-A4Z5	TCGA-D9-A4Z5-01A	Primary Tumor
+a83b0f67-2440-4fc2-a540-04801db444bd	0917d943-d4ac-49f6-842f-cf4e3526ecd3_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-AAP6	TCGA-BF-AAP6-10A	Blood Derived Normal
+f65ffe72-6f0e-4bbd-963b-da97e718711d	33941005-40a5-45da-a497-bd3fcfbbec30_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-DA-A1I2	TCGA-DA-A1I2-10A	Blood Derived Normal
+c09db718-976e-4a2d-83e7-f489f34ee702	609f4177-82c0-4e12-b1e9-291ebb381ff6_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A20H	TCGA-EE-A20H-06A	Metastatic
+0a8672b2-7659-47e3-bcbd-2528097f8c9e	17a12a35-5a02-4f8d-bc01-c5faa35a2790_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1ZZ	TCGA-FS-A1ZZ-10A	Blood Derived Normal
+418a85ce-4591-4172-8d1d-efe4cd4edf65	b3ca6e8e-f372-4991-8ac4-989a36947c61_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1Z7	TCGA-FS-A1Z7-10A	Blood Derived Normal
+ce2b9c96-23b2-417d-a9d4-ca976c9fd889	54a77010-2f16-4da9-8ca0-746a51801a00_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A19E	TCGA-ER-A19E-06A	Metastatic
+05d80fe7-e873-4fb3-b083-2bf47fa85b1d	01cd0895-7900-4731-9f90-7b4de872b1c0_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A5SF	TCGA-EB-A5SF-01A	Primary Tumor
+1413356a-bec2-4169-862e-2255c189be0d	89eae08e-6977-4c47-95de-354eb7f787e9_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1ZT	TCGA-FS-A1ZT-06A	Metastatic
+88d9e370-e9ef-42bc-8817-9061d25ef95c	d76073bc-61b7-4d7e-af06-1c9ced11318b_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D3-A3CC	TCGA-D3-A3CC-06A	Metastatic
+f34af986-e998-4951-8c73-d498a7443566	8a1bfe0e-c97a-41c4-815f-cf5bb5cfc69f_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A193	TCGA-ER-A193-06A	Metastatic
+3b46e9c2-bf5a-45fd-8cb3-0dcdabbd7218	b48d03d1-e323-4119-b62e-1952163aab2a_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A24C	TCGA-EB-A24C-01A	Primary Tumor
+526e35b5-0cd0-42f7-8bd1-582955655e11	93064ee5-5d66-4b34-9f7b-515da409f1dd_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A24C	TCGA-EB-A24C-10A	Blood Derived Normal
+57435c9c-c3f5-4069-89ef-01cad18d43cb	d0e033bc-8e97-4322-b3b1-8626f1e2449b_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-DA-A1I0	TCGA-DA-A1I0-06A	Metastatic
+54f997a6-5582-46f8-a3d8-71d74b8e2e78	f6c23420-493d-49c0-831a-8cfaef714e4b_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A24C	TCGA-EB-A24C-01A	Primary Tumor
+b9707a5b-0afd-4ab9-9b5b-3f853c3b3066	40a9b358-e49d-42b6-aef0-cf04f33f2e14_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A19O	TCGA-ER-A19O-06A	Metastatic
+029a7286-76c9-4a06-b730-94cbc5c1523b	a5e22f8f-a2d8-4968-b258-bc67282cb9c0_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1ZN	TCGA-FS-A1ZN-10A	Blood Derived Normal
+3aab195b-c321-4170-ba26-dcf2419db8ea	fda54930-6f29-4c59-ae0a-721f9baadb89_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1Z4	TCGA-FS-A1Z4-10A	Blood Derived Normal
+66a34928-2eda-4046-8d80-fcf332d75e9e	a3857f08-f577-41b4-a573-71d084fc9ce4_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2GT	TCGA-EE-A2GT-06A	Metastatic
+f618fe1f-906b-492a-b7bb-d6fb6c1e77c0	5310f698-d31a-4628-84b4-dc9ac29722a5_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2GT	TCGA-EE-A2GT-06A	Metastatic
+69da9b84-1372-4d81-ac0f-7d334b214c7b	1c803f97-8436-4e2a-82ce-58de4b49dea3_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2MJ	TCGA-EE-A2MJ-06A	Metastatic
+9f974fb1-4e80-4ee7-99a9-22defb0015e4	9a345f68-0a6c-433e-91af-1bd41491520c_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A29B	TCGA-EE-A29B-10A	Blood Derived Normal
+03fe6850-75d7-4a69-9dad-717b0a12fa91	b91a19c6-1667-4c0c-8d8e-60bbefdc4ae1_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-XV-A9W2	TCGA-XV-A9W2-01A	Primary Tumor
+6c3fffff-fb5e-4772-9a79-5468e61fe7da	99346d7e-b398-4886-bcfb-29876b53964d_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1ZM	TCGA-FS-A1ZM-10A	Blood Derived Normal
+7296dfc1-b196-4e08-84cd-7d03cc8ced63	a0583407-712d-46f3-8c4e-4eeaa0149087_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D3-A1Q1	TCGA-D3-A1Q1-06A	Metastatic
+ef23e59a-954d-43fa-b144-0e20f6ffbbc1	a2491ea0-7f4b-4516-8981-05fc06a0a05e_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-A5ER	TCGA-BF-A5ER-10A	Blood Derived Normal
+c0e7eab8-3c9f-49c2-be98-b6fcc8f16aca	52ae8f4d-ecc7-4acf-85e3-4317bdfd7eb0_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D9-A3Z4	TCGA-D9-A3Z4-10A	Blood Derived Normal
+1ca09717-86e3-41a2-a00f-ff1a8cbb4991	d1c0c033-0eba-4fc9-82d7-52a769654154_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A553	TCGA-EB-A553-10A	Blood Derived Normal
+1b65b9d3-4219-4d7a-8846-c399b6c94069	978ae91e-6ebe-4efa-97ff-cfad511ae7b3_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-DA-A3F8	TCGA-DA-A3F8-06A	Metastatic
+7ce19f1f-039b-400e-8647-abb216509951	bd64ee85-341b-4d5a-8dde-17898f3cdc99_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2A1	TCGA-EE-A2A1-06A	Metastatic
+5ba9163e-d3e5-4d91-9b37-1038a7cfccf5	4e250771-0ed3-4fd5-a177-90276344d1fd_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2A1	TCGA-EE-A2A1-10A	Blood Derived Normal
+1995d24f-3b00-4e20-9843-3d1c0aecf02f	46412d85-4008-45c9-a031-b8bf1a8d56cc_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A196	TCGA-ER-A196-10A	Blood Derived Normal
+4fb62291-d753-45ef-af72-7d537e6279c7	30ced7b6-9cd7-4f9b-96cc-3264ef036734_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1ZC	TCGA-FS-A1ZC-06A	Metastatic
+e2d9af55-a886-411a-a4ee-ea4226562591	0fd8f30a-936e-4a72-aa69-4dac1e4bce49_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A24D	TCGA-EB-A24D-01A	Primary Tumor
+846aa374-5b84-4afb-aefd-b4764bc74c73	f32701ee-123a-4d6c-ae5a-06f52aad063e_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A29H	TCGA-EE-A29H-06A	Metastatic
+1e7f9390-ef3c-4f0b-a8c6-1094db5d4a6b	231598d2-a4cd-4a61-b98a-3f41220659cd_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2MI	TCGA-EE-A2MI-10A	Blood Derived Normal
+a0493d70-934b-4cb2-8f68-ce1e90dc1457	06bc4bb6-24cd-4bc2-af6c-468c37ec5d48_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-IH-A3EA	TCGA-IH-A3EA-01A	Primary Tumor
+7cb2ff45-b5af-4fc4-80dd-c7742d2d1eae	c7a9c17f-142d-45b0-a5f0-23fc850e6981_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-GF-A769	TCGA-GF-A769-01A	Primary Tumor
+48d8dc31-1729-487b-b2b6-c6eaadcb70b8	7bf18207-5336-4c0c-9017-b6bd5daa7ff7_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-A5ER	TCGA-BF-A5ER-01A	Primary Tumor
+02356089-eb16-43e0-b4d5-27cb5beeb2c9	c18f4b2b-e77c-4833-9fa9-96d4463800e0_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A3XB	TCGA-EB-A3XB-10B	Blood Derived Normal
+053fd27e-db6b-449d-8395-def30f25be2a	788dc356-ef8c-4e40-ba3c-c63b874be33f_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A550	TCGA-EB-A550-01A	Primary Tumor
+4e6c17b0-d722-454f-83bc-b9ffb801cc66	e7b47cec-4001-4426-81a0-86b345a56800_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A19J	TCGA-ER-A19J-10A	Blood Derived Normal
+28417316-6fa5-47a2-b38f-c0b76c78fbd9	f0c1ab78-7825-4cf4-b4d7-e7a1a8a17c0f_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2MH	TCGA-EE-A2MH-06A	Metastatic
+5ce5f668-4f37-4cf8-8c10-69fa3bc57f9f	84b82d6d-d447-449c-94ee-cd14505de6f6_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A5VU	TCGA-EB-A5VU-01A	Primary Tumor
+f323c7fa-b9b1-49b0-98e3-dc5afd07be05	6c884037-49f9-41c3-b0e5-9cbcd545aeb7_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A24D	TCGA-EB-A24D-01A	Primary Tumor
+fe82df7b-1e9d-4dc5-b26b-675c6919bb36	54939a7b-7340-4812-8e6b-36d7b29b1a58_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A24D	TCGA-EB-A24D-01A	Primary Tumor
+16f1b039-44b7-47fb-b7b6-fa9f366697fa	c287dc89-3035-459d-8d74-dbff9a051175_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A6QY	TCGA-EB-A6QY-01A	Primary Tumor
+2388d871-354d-45c6-a597-ba92e2b0347f	4c58ffda-be6d-4420-a2e6-24cd3a705b05_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A6QY	TCGA-EB-A6QY-10B	Blood Derived Normal
+3d885ef5-8ae4-4576-b625-e445f4a32518	e8597f31-eb56-4dd3-9cd8-976c079a4c66_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-AAP2	TCGA-BF-AAP2-01A	Primary Tumor
+0fca04e1-d4db-45ce-b7ba-2577237237d8	0c4a6a26-c64c-44e0-b422-a95e44aba7f3_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A82B	TCGA-EB-A82B-01A	Primary Tumor
+9f6a08da-4300-4025-aa57-d56c191f04b2	c15b6b69-f9d7-40fd-8c82-f22f6b88f3f2_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-A5EO	TCGA-BF-A5EO-01A	Primary Tumor
+39c2280d-c719-49b7-a7ce-d9ce19b85a5a	ead20498-dcd9-4785-b022-8dcbddfd1539_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-GN-A8LN	TCGA-GN-A8LN-01A	Primary Tumor
+4ca0b855-dc96-4321-b810-cf6163bff712	a1425774-59b5-4387-81b4-3abbb8031d47_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-GN-A8LN	TCGA-GN-A8LN-10A	Blood Derived Normal
+34462359-8786-44da-aef5-cfb9660544bd	93eb9265-c790-4980-b305-4e0240791242_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A29E	TCGA-EE-A29E-10A	Blood Derived Normal
+7dd0884f-da48-4312-a8c3-a00c503f4c0a	0d4616a1-dc9e-4a86-9f95-e705b59c17dd_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A431	TCGA-EB-A431-01A	Primary Tumor
+7167441a-07ea-45b7-8f71-a8a6da6b2573	ed0898a8-cea1-4bb6-aa71-67596d1ced61_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A299	TCGA-EB-A299-01A	Primary Tumor
+e1bedd73-08e3-4b15-9be3-3c0820e1dde4	21b8ac21-0ca8-43d0-a254-cefae126d83e_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A6QZ	TCGA-EB-A6QZ-01A	Primary Tumor
+4c0aa02f-0ee0-4acb-a631-7c8fd4616c3c	b9cb409b-ac7f-4c8d-ae93-906afbf3ec93_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A29N	TCGA-EE-A29N-10A	Blood Derived Normal
+19a58ca8-30b9-458a-b809-9ce912e94f72	a547f691-9db5-4678-8422-e4502cbbd374_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-XV-A9W2	TCGA-XV-A9W2-10A	Blood Derived Normal
+bd047097-f439-4b48-99e3-7bf131313186	fa4d35e3-fc38-4e26-a9e0-521a648acec1_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A29B	TCGA-EE-A29B-06A	Metastatic
+3f34b949-cd2e-4fca-a8ff-1384b57d46ba	86e96814-fe03-47a8-8eb6-cdead9fe4f05_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A185	TCGA-EE-A185-10A	Blood Derived Normal
+3e400516-924c-4e52-b1ca-67eb4c5468f5	7a5a39d0-f2d6-4158-8ed4-c76e62657738_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2GR	TCGA-EE-A2GR-06A	Metastatic
+26ec6e93-d741-4e20-9db8-e92dfa6b0690	fb3534ac-a9fb-470f-a065-dbb1f235d716_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-A5EP	TCGA-BF-A5EP-10A	Blood Derived Normal
+82926a8b-03a5-4b87-b33a-ea284f9cda41	608d2f9b-5f30-4783-a869-5298c0c07f3f_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-A5EO	TCGA-BF-A5EO-10A	Blood Derived Normal
+b6442d77-5c26-4119-9c32-42afb885553a	c8dec84d-2f89-42fc-bfff-fa128f324c3e_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A82B	TCGA-EB-A82B-10A	Blood Derived Normal
+fbf34220-7db9-4f37-9585-769c3dff68a4	7ef9aaef-51c2-424e-a14c-c2c35942ee22_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D3-A1Q9	TCGA-D3-A1Q9-06A	Metastatic
+3b0e1432-582c-4012-9ed3-0566f8815ffd	9f418c93-5a97-41d5-b69f-eb581c967390_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D3-A1Q9	TCGA-D3-A1Q9-10A	Blood Derived Normal
+d4c32d9c-2b0a-494d-a9be-2a7c9d186325	c1a44d60-23d2-46b9-93e7-7e9dc671902c_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A29E	TCGA-EE-A29E-06A	Metastatic
+161be51a-6fcb-4baf-af79-c7aa08da785e	69d0bff4-eec5-40a7-ab3d-cba125bc29f7_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2GT	TCGA-EE-A2GT-10A	Blood Derived Normal
+18398da5-85b9-4567-987f-4de111bd42dd	7532f8f2-7bbd-4834-987e-172aa2c6eaf8_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A44N	TCGA-EB-A44N-01A	Primary Tumor
+5653d96c-1b02-4581-a1a0-a01f0fb28bd8	708f03df-83ee-47f7-99f4-ad2e7e0db63b_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A19N	TCGA-ER-A19N-10A	Blood Derived Normal
+b7e7871f-50f0-4df2-9c1d-a4d09efcd314	f01ad90b-4e93-4368-a05e-76e9f1779629_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A3Y6	TCGA-EB-A3Y6-01A	Primary Tumor
+f1a939fb-6b63-4080-8f62-7dfd75353589	fbe6aae2-b4a1-4aa3-a4b3-c5a43812c1e6_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A3Y6	TCGA-EB-A3Y6-10A	Blood Derived Normal
+68e89801-916e-43c6-9cbd-3783794e8981	628778f0-a013-498a-938a-bea1361add23_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D3-A1Q1	TCGA-D3-A1Q1-10A	Blood Derived Normal
+4559e699-29d6-4a04-a1bb-d13bfcf18050	d1786636-29e9-478a-a6cd-161fedb453da_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2GS	TCGA-EE-A2GS-06A	Metastatic
+754d11de-ab44-4928-8f39-20349f421ada	64fbfa57-cff3-4193-a826-415de8f91396_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1YY	TCGA-FS-A1YY-10A	Blood Derived Normal
+009c837c-e4b6-46c2-ad8f-a7d7325de5f6	9872d0e1-c9f7-40fc-a0dc-8e62e4e4b4f3_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-IH-A3EA	TCGA-IH-A3EA-10A	Blood Derived Normal
+3bd9a8c9-7079-4bb4-8a43-747bc67fee57	e3f66563-88db-4ad4-902c-dfe456ceb0b8_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D9-A3Z4	TCGA-D9-A3Z4-01A	Primary Tumor
+7fe48852-2e48-4c41-96e2-33ccb451bbe8	7a9149b5-4c0c-4626-ac6c-0f0f7ca9c5b1_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A553	TCGA-EB-A553-01A	Primary Tumor
+05a49002-437a-4c66-80fc-71238d99ebc9	3bf67116-be87-4c02-b931-352ebb7f3b48_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2M5	TCGA-EE-A2M5-10A	Blood Derived Normal
+83aad45c-23b5-4279-8357-75360ba8ef73	fa4f4875-8db0-4ca3-9a4f-72074ae2a7c5_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1ZQ	TCGA-FS-A1ZQ-06A	Metastatic
+61a9a014-90b1-4954-bdc2-29068c991871	58e501cf-2038-4cac-961a-92916f2a0268_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A196	TCGA-ER-A196-01A	Primary Tumor
+1deec293-c9d6-4dcd-8aaf-e86b9d183fa3	595733a4-7b2b-4052-8a2e-66e910d9a28f_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2MH	TCGA-EE-A2MH-10A	Blood Derived Normal
+1dfd9b86-ed5a-409d-bb5c-b471bcaee68c	63b79ced-2594-4c16-9788-95bbf1f99d37_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A29H	TCGA-EE-A29H-10A	Blood Derived Normal
+781acd60-1d4c-42f4-b316-891df73bbc0a	9b6a527a-83f8-4b0a-95f4-af1dd54b3404_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A24D	TCGA-EB-A24D-10A	Blood Derived Normal
+57184774-4020-4149-a30a-7170c698bf0f	21ca01a9-b429-44d1-afc9-d70ac81c66e9_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-A5EP	TCGA-BF-A5EP-01A	Primary Tumor
+c9677b0e-8fff-4924-bf17-0cc1c7cedadb	63718b62-e204-46b4-81b6-4c0a1ce87332_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1ZN	TCGA-FS-A1ZN-10A	Blood Derived Normal
+a16221bc-24e6-4ecd-a050-f79a565ab7cd	fc249113-83d4-4abe-8c80-a4f7305dcd91_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-DA-A1HW	TCGA-DA-A1HW-06A	Metastatic
+5b2396b3-9c44-49dc-80e5-edfc96e60909	7d7eb9c0-01bf-46e1-8107-f17852714d60_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1Z4	TCGA-FS-A1Z4-06A	Metastatic
+223f71bc-f88a-4ce5-b2dc-ace4c35b034c	4a8251be-6505-4681-ab78-55086fc7d877_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A29B	TCGA-EE-A29B-06A	Metastatic
+c65d43a1-0752-40e2-97c4-80f91f33f30a	a2ef6b29-26e7-4be0-a87b-122dc2d217a2_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A29N	TCGA-EE-A29N-06A	Metastatic
+fa842f4c-9f6f-4ace-83e7-3ac109f03218	d056645f-4dd3-49f3-b0a4-2293e2b4d82c_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A185	TCGA-EE-A185-06A	Metastatic
+11545c11-8d3a-4d8c-8813-98dca8e2cf03	7b532980-ad10-4961-a39d-3b48a518dfd0_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D9-A1JW	TCGA-D9-A1JW-06A	Metastatic
+037c23c4-3a01-460c-ae0b-53fe0bbc06ab	790e7d9b-a1e6-40ef-b46d-22e35dab4e5d_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D9-A1JW	TCGA-D9-A1JW-10A	Blood Derived Normal
+5429b0db-7f1f-4e42-b95c-6dc5801b3310	ffae1dbb-c17b-493b-b098-d4296f6b5bae_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A4XL	TCGA-EB-A4XL-01A	Primary Tumor
+03c80a47-35d0-4972-871a-d448f4e80b08	c16119f6-8efa-413a-9632-e6679db0a3e8_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A4XL	TCGA-EB-A4XL-10A	Blood Derived Normal
+6c232863-ec9a-4f11-9dbe-f5acf3eb1473	ad8bb2f1-ddc5-4daa-ac6a-cb377588c5c2_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A431	TCGA-EB-A431-10A	Blood Derived Normal
+f68eb937-11d5-4608-99a4-123039b6a4a6	507a59f5-70a6-464c-ada3-3e686414045a_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1ZN	TCGA-FS-A1ZN-01A	Primary Tumor
+a7576801-b809-41f0-8967-dd64619cece3	8bd5c911-3afb-4541-86e6-1330e7c9a5ed_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-DA-A1HW	TCGA-DA-A1HW-10A	Blood Derived Normal
+d4108cc3-56fd-440e-91e4-fd22523ed4b6	463acb1f-1758-4e1e-a428-390cd23d8be9_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A44N	TCGA-EB-A44N-10A	Blood Derived Normal
+e1af246c-fe2e-4059-98cd-00b996860a2e	53494b17-8d69-4f26-b944-7ffeb5b95524_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2MJ	TCGA-EE-A2MJ-10A	Blood Derived Normal
+6aa6c2bf-a0e4-4646-91ec-0c6bbe02ac4f	33f2b633-1489-4934-a556-19cc41fc0841_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-DA-A1HW	TCGA-DA-A1HW-10A	Blood Derived Normal
+909c83a4-eb81-4856-847a-50dcccb682ba	ba059b4a-d1bf-4dbd-87dd-b0f7dd234917_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-DA-A1HW	TCGA-DA-A1HW-06A	Metastatic
+44f82f53-216e-4623-a81a-1f0c4fbc1e13	90dbcc2c-71ab-4abf-8a1d-7587305e9435_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2GT	TCGA-EE-A2GT-10A	Blood Derived Normal
+fc70b302-71f7-4b33-aa37-b5d52cea4c11	352c1bf5-2ea6-4e78-833d-8f16b117a2a8_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A29B	TCGA-EE-A29B-10A	Blood Derived Normal
+0184ae98-a78c-4041-ac1d-388ce57ca0cc	62e364ed-d71c-41d9-9c7c-04cc844ce8ae_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1ZR	TCGA-FS-A1ZR-06A	Metastatic
+439984d3-2255-4c71-afd4-df38dbe4364d	c21b6ecb-f70f-4e2e-964b-cba7e8ebaee9_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2GS	TCGA-EE-A2GS-10A	Blood Derived Normal
+4a02ba02-d830-4939-87df-f9a0338aa7e8	c4957682-b139-49e5-b182-fbcbc759cb9d_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A299	TCGA-EB-A299-10A	Blood Derived Normal
+509ef929-e833-4887-8568-ded58643630c	aebcb1a6-7ca5-486d-b402-7271ad7dee24_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A3HV	TCGA-EB-A3HV-01A	Primary Tumor
+140faadd-0e91-46fa-8b91-cfaac0c395f7	449de5ad-cbce-41a8-9e8d-d0e42982a191_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A3XB	TCGA-EB-A3XB-01A	Primary Tumor
+8df9f96b-862b-43cd-a016-12bccc005323	863b524b-4438-4133-98c0-c03bacc092a2_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D3-A1QB	TCGA-D3-A1QB-10A	Blood Derived Normal
+f8546fae-98c9-420a-b405-004107a7a8a3	e7cf12b4-3855-4111-8330-7a7183ce75b6_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A3XE	TCGA-EB-A3XE-10A	Blood Derived Normal
+104c99bd-bb2f-46e7-89ba-1ff369e1ceb3	7d4c74d8-f98c-43b4-ab7f-28e9dcb0d961_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D3-A1QB	TCGA-D3-A1QB-06A	Metastatic
+25f1f465-f3ab-4a1a-8c3b-844d8d2bcb92	d053f88f-09e6-472e-a691-bb293c461399_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A19J	TCGA-ER-A19J-06A	Metastatic
+564f4e4c-c4f1-4c3d-997a-5016f8d6cc71	659838fc-9ed3-40cb-a74a-33826bd60cc8_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-XV-AAZY	TCGA-XV-AAZY-10A	Blood Derived Normal
+aff24c72-6c09-42ee-aafe-3e827842ddb6	7531e352-d8cb-4990-bfec-dbed3325bb0e_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A44O	TCGA-EB-A44O-01A	Primary Tumor
+263121c3-8809-4c97-b8b0-a2cd03237982	779f841e-db02-429d-a5a8-39cefc074719_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2MI	TCGA-EE-A2MI-06A	Metastatic
+9a49647c-e1d0-4024-941d-6660c03f7f19	295dedb0-776e-4fcc-87ad-899aaab94713_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A24D	TCGA-EB-A24D-10A	Blood Derived Normal
+07b7a84f-4e6e-433c-bf93-8900a487c21a	6507e084-c038-4ba6-a431-fb9a53190d5f_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2MI	TCGA-EE-A2MI-06A	Metastatic
+6c364b11-5843-474d-9fce-98578d89d4ed	5caa1462-3881-4ffb-9a1a-ad413b84d3e6_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-GF-A769	TCGA-GF-A769-10A	Blood Derived Normal
+a10c0f64-a966-4166-b7d9-d403fa27283c	166ccde2-fec8-499e-8d5f-9d3e56960a26_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A5VU	TCGA-EB-A5VU-10A	Blood Derived Normal
+634587e7-efc4-403b-ad6c-2e47d827693f	2a1c7a8d-1015-4c48-ad64-faf45b189327_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A3HV	TCGA-EB-A3HV-10B	Blood Derived Normal
+039cc200-a08c-4cef-a9f1-fcbe6b835f3b	270e8d67-394c-49d7-971c-1c829302c9e9_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2M5	TCGA-EE-A2M5-06A	Metastatic
+364ba884-8c24-4b65-ba09-f7cce91bed07	77937f29-c94f-4251-a0ab-9d07ded92796_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A196	TCGA-ER-A196-01A	Primary Tumor
+be09c528-b5b3-4e77-963f-041d20051359	b082f1ae-a469-4eb5-86ae-76073620c4db_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-A3DN	TCGA-BF-A3DN-10A	Blood Derived Normal
+dca0abb1-84a8-45bc-9c76-94c1c3e56d50	b1ae52de-36c5-4f03-9302-b226f153b066_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2MI	TCGA-EE-A2MI-10A	Blood Derived Normal
+aa80780f-ce47-442e-899c-c8a2105a1260	48e9ed1e-9771-494e-89ac-a8c2bdc0522b_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2MD	TCGA-EE-A2MD-10A	Blood Derived Normal
+53e81d56-1193-4fe1-9387-0ce087cd7413	9db43937-2095-4f40-86bf-c86840d44150_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-DA-A1I7	TCGA-DA-A1I7-10A	Blood Derived Normal
+3c86f77c-3246-416d-b180-d49a74d92ca8	5a62986f-da0f-41f6-a848-4ad44a3e7885_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2MD	TCGA-EE-A2MD-06A	Metastatic
+d3c89bcc-ed33-4310-be63-af4f4aea4963	9147bffe-0ece-4015-be88-2d7d440060c0_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A24D	TCGA-EB-A24D-10A	Blood Derived Normal
+065d3116-607b-4641-8191-6209f04a9e92	80de212a-5675-41c7-a79e-44e95d0b3c61_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2MQ	TCGA-EE-A2MQ-06A	Metastatic
+34ded932-215a-40c5-94e8-a83671471034	3cec2abb-24b6-410a-921f-8c6cc29eddc2_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-AAOU	TCGA-BF-AAOU-10A	Blood Derived Normal
+42e1d8a5-d35c-44ef-a3c9-c92c44800236	de373850-b2ca-457e-a345-c7634a1dd4fa_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1ZD	TCGA-FS-A1ZD-10A	Blood Derived Normal
+42954a50-4528-4107-b5b8-be3dab2a1210	f57a5e11-9da5-4ac5-87a7-00ad3be2ee28_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-AAOU	TCGA-BF-AAOU-01A	Primary Tumor
+d415df85-7bb2-4eba-b96a-dbdece05ecbd	14630c19-9ee0-4ab3-9d8b-8c3309d1e7d0_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-DA-A3F5	TCGA-DA-A3F5-06A	Metastatic
+1220925e-9583-44d0-bf47-b4c87e3c4030	9ec20523-003b-4de2-b573-82355c08efeb_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A199	TCGA-ER-A199-10A	Blood Derived Normal
+4d91fe08-854d-4f02-adc0-3bd88fdea996	e21e67ad-2a45-4833-8da8-c2d467d5412a_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D3-A2JC	TCGA-D3-A2JC-10A	Blood Derived Normal
+4ab80e2b-ccf6-4c0a-8548-c6cb47e577e6	b07bad52-d44c-4b27-900a-960985bfadec_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A3J5	TCGA-EE-A3J5-06A	Metastatic
+317785c0-0f06-4635-9fba-d716e12e318c	61155bf2-23ab-49cc-bee7-fe6901b7d1d7_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D3-A2JC	TCGA-D3-A2JC-06A	Metastatic
+b47e7729-e12d-44aa-94d2-abd4900714cc	a41a29ea-6d31-40dd-b36a-ca23fd701db2_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A42Z	TCGA-EB-A42Z-10A	Blood Derived Normal
+772f5fb5-3ca7-40b5-aa5b-3b9c4025d13d	71bbce81-73f2-4fc8-8651-ccd1a7175d0d_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A85J	TCGA-EB-A85J-01A	Primary Tumor
+bf88cc25-c63d-455a-ab51-e86183d5b78f	346e07c6-1696-44ad-a4c1-b3c16ca3b837_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-A5ES	TCGA-BF-A5ES-10A	Blood Derived Normal
+e520bb7f-c36a-4598-9cbe-fadc77ac2db4	e07f7c20-d1c3-427a-820c-5a064af6fc99_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A4P0	TCGA-EB-A4P0-10A	Blood Derived Normal
+67dba1de-d718-44bf-8419-b090145fe5a5	86c0ab31-7a14-40e7-aea8-2cad1f90cb27_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A29R	TCGA-EE-A29R-06A	Metastatic
+5718fd36-41c0-4b40-b471-e7c664d23b28	a0d8a73c-3415-493e-8250-aa2ea9591590_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A19K	TCGA-ER-A19K-10A	Blood Derived Normal
+d7b1ba12-cc32-43c2-adf2-bf442bad703a	1a90853a-2bee-415d-854b-456c8cdabc0c_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D9-A1JX	TCGA-D9-A1JX-06A	Metastatic
+72e0f332-3022-458d-ac3f-8d1a72408ae9	65dda040-5ae1-40bf-b707-6c8148b2fca1_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A19K	TCGA-ER-A19K-01A	Primary Tumor
+f7560c03-07ae-4bda-8dea-3b0f6719dfd2	e2774050-1257-4c29-b201-d79ce70fe17e_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-GN-A26C	TCGA-GN-A26C-01A	Primary Tumor
+360f6ae4-3215-4962-9c05-e7e6a3944756	ca8bfcec-4721-46d0-8c5a-7ac30d86e424_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-GN-A26C	TCGA-GN-A26C-10A	Blood Derived Normal
+b9d2e765-803a-4cbe-b51b-40a3447a251a	a92a7f4e-8e83-488a-8e8f-3f6828d143ff_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-GN-A26C	TCGA-GN-A26C-10A	Blood Derived Normal
+8b2cf644-284e-4726-99fe-108b9f03cfe1	60d3b4b4-5b8e-4423-9834-25ae8223b2ab_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1ZG	TCGA-FS-A1ZG-06A	Metastatic
+830ffd0c-2f10-4e07-9b25-b11338ff4d83	bc0b690d-7c05-4b68-b2f2-5d38ea621a02_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-A1PV	TCGA-BF-A1PV-01A	Primary Tumor
+f8e0e3f6-3bcc-40ef-b1bc-6d61eb3e3fbf	cfcbc9b2-dd33-484d-829b-4606b4646d32_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1ZG	TCGA-FS-A1ZG-10A	Blood Derived Normal
+23955d40-bee2-4713-ac94-ab295b33e772	f86bbd71-66e1-4fa6-8f1e-a7c065dc3cfd_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A29P	TCGA-EE-A29P-10A	Blood Derived Normal
+8d6cff03-38e5-45a5-838a-6e3d1d17661d	27389e3e-4a1a-4628-9aa0-02b5b684dbf7_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A29P	TCGA-EE-A29P-06A	Metastatic
+af2ce9cf-15de-4741-a032-6e3cc5508557	43706352-7113-4cf4-be20-f8aab94e603d_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A5SE	TCGA-EB-A5SE-01A	Primary Tumor
+8abf8440-ec56-41c3-b8d3-6381b1d79773	8ea666b7-2b6e-4df8-9a9d-b8265b9749b4_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1ZD	TCGA-FS-A1ZD-06A	Metastatic
+43c558cb-098e-4c0e-a71b-3408487e3489	f550e879-225e-46bd-9a2c-8ad3ed801df4_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1ZD	TCGA-FS-A1ZD-06A	Metastatic
+8db6ac33-e241-4b9c-8bc3-24a9a73a9939	26e8ebfa-b65d-4860-8b9a-b558ace4f45b_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1YY	TCGA-FS-A1YY-06A	Metastatic
+52aac58c-f75e-480d-8801-3f1f545769c8	792f1ed6-b16e-4baf-9013-e91d77b22c89_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-DA-A1I5	TCGA-DA-A1I5-10A	Blood Derived Normal
+6546a76d-1f84-4309-af00-db990a824955	f92f171e-3442-4ef7-b30a-b4a11c86aa47_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2ME	TCGA-EE-A2ME-10A	Blood Derived Normal
+1a1c0fe8-4974-4713-8341-40a8e56d1ec8	92e97c53-088b-4df8-8c4a-43adacc97f35_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A42Z	TCGA-EB-A42Z-01A	Primary Tumor
+66a4ea43-310f-47b5-9059-3a1740cc9441	564ec643-aa03-4892-bb7f-a455914c63a4_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A4P0	TCGA-EB-A4P0-01A	Primary Tumor
+95ad11ca-9786-407a-b244-b43bcde3d823	298f1bb0-cc50-4805-9bdc-2635f16bc5d5_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-A1PV	TCGA-BF-A1PV-10A	Blood Derived Normal
+3fa4717d-c356-40e5-92f6-c78aaca80667	260aaf9b-14f7-4cda-a129-b8874e4474de_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-A1PV	TCGA-BF-A1PV-01A	Primary Tumor
+c42cce2d-f1c2-40b9-914b-128384943638	b3af114b-4af4-46eb-8545-916d55c38fc1_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D3-A3C3	TCGA-D3-A3C3-10A	Blood Derived Normal
+899a7340-d8a3-4dce-bb65-a0d21df16230	d9538a0c-8449-4969-8d94-3157029387e6_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D9-A1X3	TCGA-D9-A1X3-06A	Metastatic
+b6ef3ced-0e92-4e65-a4b3-09b129f5342f	fafd47f9-a673-4461-a8b3-b78a3ee989fe_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D9-A1X3	TCGA-D9-A1X3-10A	Blood Derived Normal
+d9a81202-fcba-4d6b-8be3-58861bcbcd33	02881604-8976-48a4-947a-84391aec2b24_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A29C	TCGA-EE-A29C-06A	Metastatic
+0c89b124-f35f-4cbc-9f6a-0b04fefb1d6d	fa3b6b80-3eac-4afb-865c-da8b0cb10c9b_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A29C	TCGA-EE-A29C-10A	Blood Derived Normal
+f6030ab3-f162-4b36-9c69-c8090eb511e2	1c9c9f6e-9d73-4acc-b3b6-4f1332ddae68_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A5SE	TCGA-EB-A5SE-10B	Blood Derived Normal
+583125d8-c060-472c-93eb-3e5795d31f62	9ed980bf-e523-4b95-a413-7341a5b023cb_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D9-A4Z2	TCGA-D9-A4Z2-10A	Blood Derived Normal
+a3497485-2155-4aab-a07a-bf5aaa62a50b	285efb0e-885f-4fa4-aae3-011f3620aa13_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D9-A4Z2	TCGA-D9-A4Z2-01A	Primary Tumor
+b7075c3e-a6d9-4b5d-8b46-e3e811983d88	c48121fd-7f92-4206-be49-41f103cb35c8_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-DA-A1I7	TCGA-DA-A1I7-06A	Metastatic
+cc47fe2b-d2b5-4cb4-b300-22e8f8f237e2	252e9fa9-3998-410e-a2b1-0b0688c75209_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FR-A728	TCGA-FR-A728-10A	Blood Derived Normal
+1914d7df-c16a-45fd-9a9d-e3385183f5e6	6d0b52e3-2420-42a8-a655-b60579db056d_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1ZD	TCGA-FS-A1ZD-10A	Blood Derived Normal
+7afecd95-a124-45c3-aec2-977e0d46a70b	760517dc-22d8-4c40-87d5-12c3987c9bca_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FR-A2OS	TCGA-FR-A2OS-10B	Blood Derived Normal
+5a51141e-08ac-4a86-aa5f-ff5f5897321d	241f5861-89c6-4b3a-a1e7-6b56d10281a4_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-GN-A269	TCGA-GN-A269-10A	Blood Derived Normal
+31da0251-12b9-469b-b74b-05e7dfaf63f0	20d8f05b-2bc0-4cb7-9476-0ea90e69c965_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2MG	TCGA-EE-A2MG-10A	Blood Derived Normal
+7385667f-e973-45d2-8cc5-f91b63e43221	eb5e15f5-55e7-433c-8dd2-aa3df568f0cf_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A19K	TCGA-ER-A19K-01A	Primary Tumor
+4f76fe80-230e-40f9-a7b4-50f6b08b3f6d	6d4599cc-43b3-4ae5-805e-8d23def87faa_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D9-A1JX	TCGA-D9-A1JX-10A	Blood Derived Normal
+af1d200e-367f-4c78-8639-f87288faa6a0	c2fe831b-266a-41db-ab5f-bd8069849a50_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-GN-A26C	TCGA-GN-A26C-01A	Primary Tumor
+64cd21c2-7473-4053-9888-c16c7c53406b	245f9f68-3564-4ace-847b-cb11e6b3a3ea_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-A1PV	TCGA-BF-A1PV-10A	Blood Derived Normal
+f9bbd820-4a19-49ac-bbc9-5fd9503c2886	2fd34fbf-5b0c-4171-bac1-38fd03a62295_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D3-A3C3	TCGA-D3-A3C3-06A	Metastatic
+9eddf260-f371-4cf0-bc25-731dfb1d9715	ea2d0fe8-9a07-45bb-8365-2e0389b5adb0_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-WE-A8K4	TCGA-WE-A8K4-01A	Primary Tumor
+0df214a7-85de-4ed4-8ced-cf87f536e6c3	d28e2fcd-8efc-4b7c-9d5e-2302a7a6d930_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-WE-A8K4	TCGA-WE-A8K4-10A	Blood Derived Normal
+5e5612af-807d-473d-9b0c-86286670dee9	d3a9de23-92a7-401a-b49b-5ca3b97f8f9d_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D3-A2JP	TCGA-D3-A2JP-06A	Metastatic
+af430368-7613-4741-a307-2c69af152bcb	bbb42c52-862d-4bf6-a09f-b65baeaf3841_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D3-A2JP	TCGA-D3-A2JP-10A	Blood Derived Normal
+16f413c7-789a-42af-bb35-7e6a7bce2598	0667dd8a-9423-4131-b002-6627b16df677_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-A3DL	TCGA-BF-A3DL-01A	Primary Tumor
+9d72eaa0-0584-49d5-8f2b-2b4973ba84e2	2a483888-9925-45c2-a71e-417569f4b280_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-A3DL	TCGA-BF-A3DL-10A	Blood Derived Normal
+316505cb-08ab-4f7b-b351-adb87e5bff97	2a412503-9221-495b-9b3d-37407b7b51d6_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FR-A728	TCGA-FR-A728-01A	Primary Tumor
+445ffc13-24d8-452d-af82-c8d853d8c42b	bdae7da4-5f86-471e-8ad9-e5fde3ebd0ed_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2GB	TCGA-EE-A2GB-10A	Blood Derived Normal
+80ca312f-32d0-4407-a323-939b714028ba	94740c53-6b12-4116-b219-ece81e356234_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A85J	TCGA-EB-A85J-10B	Blood Derived Normal
+4bcff341-74ea-4811-bffe-cb8db945065a	df4b3af9-61c8-4961-ba00-3f8e96b8e766_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A41A	TCGA-EB-A41A-10A	Blood Derived Normal
+f5ca7c9f-c80a-4a9d-a010-f701c228e481	629a48f1-82e9-48b0-ac48-620260744f5e_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FR-A2OS	TCGA-FR-A2OS-01A	Primary Tumor
+e5a73d0e-5203-4943-b305-7585d2d70879	e54ffa2c-e4bb-4048-af1a-63ce7ba1f45e_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A29R	TCGA-EE-A29R-10A	Blood Derived Normal
+f44794d5-105a-4b37-83a7-6ff148fb3073	c00acedc-5869-45b1-9b7e-ec305c5e7a51_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1ZN	TCGA-FS-A1ZN-01A	Primary Tumor
+c2848dd3-bd31-417c-a81d-b3bdecc0a09f	c164de0a-e762-48be-b940-9e5ea31ad026_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A299	TCGA-EB-A299-01A	Primary Tumor
+fca32082-cf1c-4dba-bf7e-462b815efee9	affa4ef4-02ec-40f1-b6a2-739f8bf2afa9_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D3-A3MO	TCGA-D3-A3MO-06A	Metastatic
+ebf8409d-f53d-4fc6-a07f-69471ee9e4d8	184c8d97-2f4c-4051-9768-39b34aecca18_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A6QZ	TCGA-EB-A6QZ-10A	Blood Derived Normal
+fac1aa85-faa0-4fa3-8fd3-4fa872129897	46ee8ba7-ef58-4b4c-913c-9507e7a9d7e2_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D3-A3MO	TCGA-D3-A3MO-10A	Blood Derived Normal
+57a77af3-f22b-42d9-bdbb-c0f0ffbba9c3	6ee8d916-f53c-4604-8801-029da7809d11_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A19N	TCGA-ER-A19N-06A	Metastatic
+8da460f1-c192-4642-b4ee-76795e951b8b	bf915dad-c627-4a13-84ab-4bfd5dff76be_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1ZM	TCGA-FS-A1ZM-06A	Metastatic
+3544bb5a-bbeb-459c-9485-6e8bc1baf099	03a94509-ff21-40b8-83be-b24887f8a1a3_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1ZR	TCGA-FS-A1ZR-10A	Blood Derived Normal
+5c4feb28-a8e5-48c2-91a3-22380a03fb71	6e77c52c-3c48-4af0-9f0d-393ce3c268f2_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2GR	TCGA-EE-A2GR-10A	Blood Derived Normal
+7a6a3e50-a476-4961-82c7-297b3a1cce23	e2c9fdac-ff37-421d-b802-38a3471ee9fb_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A299	TCGA-EB-A299-10A	Blood Derived Normal
+78f7ae31-5274-4bc8-a8dd-c11a1c0ecccb	3c4e786a-0441-4e99-be3e-e840a7a5d529_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2MQ	TCGA-EE-A2MQ-10A	Blood Derived Normal
+501da15d-ccd7-42e5-8520-863aaa5961b3	1a59d0d6-03d0-42d1-9c86-5d2d199b80b8_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A41B	TCGA-EB-A41B-01A	Primary Tumor
+61afc296-543a-4d32-8181-7ee3c552415f	ca96cf13-fb7a-4e63-a667-77fde4edb07b_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A41B	TCGA-EB-A41B-10A	Blood Derived Normal
+de537b52-c539-45bc-b771-da690fc50dc7	2a5e7859-8c9a-45b7-bd81-86dc3b6d5d20_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A199	TCGA-ER-A199-06A	Metastatic
+34f60638-6eb9-4874-91d8-1cd9ffd5f777	c3fb56ba-1b76-44cb-8e49-0232aa160af8_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A430	TCGA-EB-A430-10A	Blood Derived Normal
+977a4d50-1837-42e1-836e-fc961dde769b	d74244a2-afa0-4348-af73-248e24cb2999_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A430	TCGA-EB-A430-01A	Primary Tumor
+2d35ccad-82b0-4c70-812a-2d1aff29ae98	bea81fa6-a4ba-478b-9c37-5283a7f6748d_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2GB	TCGA-EE-A2GB-06A	Metastatic
+15df6804-7580-4843-9eb1-8413cfdb2d3f	a1df2088-8b69-484c-9309-cf4727c37c5a_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-A5ES	TCGA-BF-A5ES-01A	Primary Tumor
+d2c12658-a058-4bfa-9eaa-8e74bbd51012	58223c5e-67dc-41b0-ba30-9c3e32f936ff_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A41A	TCGA-EB-A41A-01A	Primary Tumor
+acd2df33-f25e-4cb1-8402-630b901da090	ccb9460e-97c4-481f-ad9f-103bdf67f2af_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A29D	TCGA-EE-A29D-10A	Blood Derived Normal
+e6b83e34-78a0-4196-9315-c5b3011dc24d	8eaacd8c-a326-45bf-97c3-e1f300e1a1aa_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2MG	TCGA-EE-A2MG-06A	Metastatic
+c4491a3d-a8d4-449c-90a0-c51d1dbc36c5	ce036245-08c0-4d4e-b64a-810a1b7acf40_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2M5	TCGA-EE-A2M5-10A	Blood Derived Normal
+bd774e71-49d9-4523-af7c-8b627ffa67ec	131ba17c-9d2e-49df-bfec-f8cd07b506bb_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A3XE	TCGA-EB-A3XE-01A	Primary Tumor
+8c9a6e06-85d5-4999-ae62-ae06585d540e	3869ff3f-21b9-4817-8ff4-83c6fc75ab11_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2M5	TCGA-EE-A2M5-06A	Metastatic
+78044557-a1e9-4530-a12d-3325f404a974	d7b2aeed-1a42-4335-a545-0d284fc5e463_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-DA-A3F8	TCGA-DA-A3F8-10A	Blood Derived Normal
+154afd75-3c79-4344-92e6-cf22913ce4a8	0bff6798-e967-424f-8b78-2875f6074f18_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1ZQ	TCGA-FS-A1ZQ-10A	Blood Derived Normal
+7cc50c6d-a132-43ee-9abe-7c281898c24f	45b62c9f-dd93-4a8c-beed-384e3a6a5a58_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1ZC	TCGA-FS-A1ZC-10A	Blood Derived Normal
+53069e54-3cc2-46cb-9871-d4373dd00645	c57986d9-6005-493c-b993-8b744f49f8ec_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A550	TCGA-EB-A550-10A	Blood Derived Normal
+f5242d16-8cfc-4a6b-b5db-009a56d8ada9	60977f43-9eaa-4398-a4b2-3a33a3f6a8a0_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A196	TCGA-ER-A196-10A	Blood Derived Normal
+277d7ce3-2dee-446a-869f-f8d1e746766b	50e5157d-7b0c-453e-9185-4f07cef4386f_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-XV-AAZY	TCGA-XV-AAZY-01A	Primary Tumor
+934b71af-230d-4878-b636-313591f4c86e	cc61846f-39b0-4235-a23e-c712b2758375_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A44O	TCGA-EB-A44O-10A	Blood Derived Normal
+85e4bf39-44f0-4bb8-bda3-0c50467821a1	dc52a0dc-ff37-4158-91ba-257188c56dc4_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A3Y7	TCGA-EB-A3Y7-01A	Primary Tumor
+e6e6f95c-36ab-4ca3-b912-27283797c4d3	1f5e12f3-0ff3-4343-94c5-1f1e714f2fa7_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A3Y7	TCGA-EB-A3Y7-10A	Blood Derived Normal
+411a8b48-3c0d-4690-8ceb-9d9c5ffb795d	38b414fa-a48c-44d2-a8ca-150a77b1a7e2_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-A3DN	TCGA-BF-A3DN-01A	Primary Tumor
+8a481520-344d-489a-9fb9-f0d2cd21f1dc	cf12ee87-5c0f-4450-8490-fece5b88df0b_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D3-A1Q7	TCGA-D3-A1Q7-06A	Metastatic
+966061ab-b79a-4fc6-81b1-489c795a602e	b4f4d3d6-d548-40b8-a155-44d9e4a3e655_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D3-A1Q7	TCGA-D3-A1Q7-10A	Blood Derived Normal
+d84f2cb2-dffd-44be-9428-cdd72a803826	8965c2db-bde8-4c9b-84aa-6d2b55101415_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A29V	TCGA-EE-A29V-10A	Blood Derived Normal
+8f8e3f28-8b07-4984-8332-8a33e22132a8	2af2833c-957e-4c52-84f6-4d218260fef0_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A42H	TCGA-ER-A42H-10A	Blood Derived Normal
+d9b66dbf-1711-4650-853e-478f9dc7eb88	a974f839-a24a-4763-8e48-a3777aa7757f_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A29V	TCGA-EE-A29V-06A	Metastatic
+c4745910-a422-471e-a352-655a0502a699	5bf57947-1c40-4e4b-a29a-e25768a0a1ae_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-A5EQ	TCGA-BF-A5EQ-10A	Blood Derived Normal
+ecf92ddb-8cbe-412c-a44d-3fff2ec82cd9	8bb3517f-9e54-4272-a6c2-a7b8e8cc567d_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1ZK	TCGA-FS-A1ZK-10A	Blood Derived Normal
+72ce6820-6a1a-4fbd-aeb2-4a9441d3b69a	f4d999fe-96fe-43f7-bc5d-c39f78938717_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1ZA	TCGA-FS-A1ZA-10A	Blood Derived Normal
+24fa8836-d0f3-4689-88bc-54dd5986592d	d23c89bb-28c1-4320-9c82-b990849035e8_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2GP	TCGA-EE-A2GP-06A	Metastatic
+79857d89-39d7-4471-9fef-b4c6bcfadf34	5dc16c47-0d73-491b-b153-7f80e8453720_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A1A1	TCGA-ER-A1A1-10A	Blood Derived Normal
+571ac7ee-89a7-4ffd-995f-19858e921717	cb2a6320-11c0-44b5-85b9-d6887fe48d30_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A1NK	TCGA-EB-A1NK-10A	Blood Derived Normal
+91cd6923-c1d5-43dd-a85f-3b0976dd7ab6	02fb5e42-5dcc-44ba-97c3-1be1ba423680_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-DA-A1HV	TCGA-DA-A1HV-10A	Blood Derived Normal
+86673052-c660-4486-8919-9b0646878c57	12e86e5e-aa64-4e6f-b5bc-846ddcbf4a64_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-GF-A2C7	TCGA-GF-A2C7-01A	Primary Tumor
+4c58fb2a-19b3-428c-b6a6-a028dbfa4726	62732bfa-1ec6-4e2d-94b5-8a3a4d2ef1dc_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A4OZ	TCGA-EB-A4OZ-01A	Primary Tumor
+4fb977e1-40d9-4b20-a56f-c079f5b9169d	60608c08-54af-4deb-86ae-33b9a24a5f03_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-A3DM	TCGA-BF-A3DM-10A	Blood Derived Normal
+c023c4e7-43d7-4ec1-8a9c-6bd1b3cc690c	4ca1abaa-5e95-47fc-8207-8656eb7b2851_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D9-A4Z3	TCGA-D9-A4Z3-10A	Blood Derived Normal
+b209abb7-1fea-41b6-93d9-d5620b2a629d	cd4c0e51-04d2-4d6b-9e83-093a61eaa34c_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D3-A1Q5	TCGA-D3-A1Q5-10A	Blood Derived Normal
+dca6f1af-0226-45ac-a0e1-80a8f2ef0eb1	232b3799-32f5-419d-bace-a3d926fec00c_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D9-A4Z3	TCGA-D9-A4Z3-01A	Primary Tumor
+4493d9ae-ba97-4236-b91e-160ce3c3ddad	04c09376-8756-41d9-bbca-f464170a8cfb_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D3-A1Q5	TCGA-D3-A1Q5-06A	Metastatic
+2e03311e-629d-4b2e-9a91-a54711f59758	d0870b38-9eb9-4bfb-95d0-1b502704aa02_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-HR-A5NC	TCGA-HR-A5NC-01A	Primary Tumor
+d4ae55e8-f58b-4e73-8852-965c37481bb6	a77e44a0-c4ed-45c0-b21a-1b6dee9b1efb_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2ML	TCGA-EE-A2ML-06A	Metastatic
+3856740f-a21d-4ac7-9818-ad02c6c8b731	b84ce7bc-4fa4-40e5-a103-b6957623cc2c_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2ML	TCGA-EE-A2ML-10A	Blood Derived Normal
+7e6445f4-ccf2-4c52-a7cc-007044570765	60429892-9ad3-44a5-8ab6-33da886a4311_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A57M	TCGA-EB-A57M-01A	Primary Tumor
+d0fac156-8b56-4921-8200-c51e5a6a040d	e77400be-0bae-4d18-ba27-3c208a7565ea_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A19L	TCGA-ER-A19L-06A	Metastatic
+3f4630ad-abb8-4fd3-9bfb-e982a7f805dd	960adbfe-f551-4dc6-95ba-5c1ce5d253ab_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1Z0	TCGA-FS-A1Z0-06A	Metastatic
+de8ec685-f4ac-41e8-97d2-29e39daa89e2	95844c37-c5d5-440d-a9e8-557a20ecb404_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-GN-A4U5	TCGA-GN-A4U5-01A	Primary Tumor
+d6fa3b2b-1169-44a4-acbb-3f8aad03a2d8	64dd81e1-35fa-4579-8a4c-f7486adbb949_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-DA-A1I8	TCGA-DA-A1I8-06A	Metastatic
+0a10e11e-37a2-4907-9699-e3b1bc352894	b33a4712-88d6-40c0-a09c-f837438461d3_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-DA-A1I8	TCGA-DA-A1I8-06A	Metastatic
+80efbf3f-8a50-4d77-ada4-96be5cb37b31	3c47a989-e13a-436b-8f57-783b8628d6c9_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2A6	TCGA-EE-A2A6-06A	Metastatic
+dc6d54a2-05fc-43e1-abf3-04dee2d6b379	cc6b0115-4dd4-4b35-9aaa-e31125a8d890_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A19L	TCGA-ER-A19L-10A	Blood Derived Normal
+8f372b91-1a1f-4750-9afb-0bbb92543760	d123fce2-37fd-40fd-a297-7b2e5aea8c56_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A5FP	TCGA-EB-A5FP-10A	Blood Derived Normal
+ab97e0eb-9c3e-426c-be4a-b11017c6ec68	1a1a5e25-4a1b-4573-8d3e-25869f434568_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A19E	TCGA-ER-A19E-10A	Blood Derived Normal
+14a3154c-c264-455a-991f-fc83dc8f1dff	341315cf-d88d-4153-ac84-7243d4d1bc04_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A19E	TCGA-ER-A19E-10A	Blood Derived Normal
+66f2396c-889b-4ace-b2d7-087acd6fc35e	f5fe6d6c-90fc-4b6b-ab60-52e8fac9d9be_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A42H	TCGA-ER-A42H-01A	Primary Tumor
+dad96372-cee1-48c8-9472-0ced9d29551e	715b3417-d5b6-4c13-83af-30e2591db1c2_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-A5EQ	TCGA-BF-A5EQ-01A	Primary Tumor
+35b1703d-3d18-4fc4-b3b5-86c5095adc92	25f7ef72-9ce1-4bfb-bebe-3815e34ffcb8_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1ZK	TCGA-FS-A1ZK-06A	Metastatic
+1d30da5c-f253-45a9-a22e-5391d37059b9	e4f81123-781a-407a-b922-c6ce48cff9ec_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2GP	TCGA-EE-A2GP-10A	Blood Derived Normal
+77401ad8-82e7-4826-a060-b3025fa1d1ea	bcbc45ef-387f-49f4-a904-22b43ec6ed4f_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A4IS	TCGA-EB-A4IS-10A	Blood Derived Normal
+8939b454-b956-4880-beae-16a7bd0bed6b	58bcc596-d401-44a7-85ae-ab47e3c939f9_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-A1PX	TCGA-BF-A1PX-10A	Blood Derived Normal
+3eabffe2-e088-4688-8985-9a7924be3215	98b49a52-61ec-4a87-b2dd-eefd6e0e028f_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-A1PX	TCGA-BF-A1PX-01A	Primary Tumor
+5a88eef7-1589-4e64-bcc1-491f87fe7c58	0edf2345-54a0-4961-a497-b6f9837519aa_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A3JI	TCGA-EE-A3JI-10A	Blood Derived Normal
+38cc2391-46c6-446a-9087-26ae0c396b77	09f3648f-5fb8-4677-a458-da2f6e77bc0e_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1ZJ	TCGA-FS-A1ZJ-10A	Blood Derived Normal
+efa643dd-3c9a-4de2-9f27-61a9d4ef8196	387ccd51-0985-414e-b10b-abaa3fb068d6_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1ZE	TCGA-FS-A1ZE-06A	Metastatic
+297f11c0-5301-4032-9d52-eb48736f207c	d84dd289-8960-4e1f-8ff5-f2339c90e9ba_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-HR-A5NC	TCGA-HR-A5NC-10A	Blood Derived Normal
+eaf3180c-047e-48e9-8d45-af6f8f4685b5	04aa6b77-8074-480c-872e-a1a47afa5314_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-GN-A266	TCGA-GN-A266-06A	Metastatic
+44049fc8-5949-4c5e-a025-fbb86a2fe919	e13423f1-89d5-41cc-9e1f-b2e8b1f42f25_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-GN-A266	TCGA-GN-A266-06A	Metastatic
+30e72749-1c07-48d4-9e74-2a0d166969f7	7f4405f2-9d42-405c-8291-5c332dad2591_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-GN-A266	TCGA-GN-A266-10A	Blood Derived Normal
+8ba04956-ca39-4a13-b76f-3519fc47b7bc	9d3074dc-aeff-47fc-af7f-843ce639d00e_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1ZA	TCGA-FS-A1ZA-06A	Metastatic
+e9cc1723-02b9-443e-a063-5b9a9a86d5ba	30fd0e42-0b22-4b54-9a2a-decf9bd0674d_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-A1PX	TCGA-BF-A1PX-01A	Primary Tumor
+8e20c9ca-8d7d-4318-829b-9b9209e619c2	e79fdd40-b36b-4c39-b808-39ff4cce3b6e_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2GC	TCGA-EE-A2GC-10A	Blood Derived Normal
+10b7edbc-8e58-48ba-b38c-c3a26f41d56a	585b1ce7-c84d-466e-85b3-420ba42c6ebc_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-YG-AA3N	TCGA-YG-AA3N-10A	Blood Derived Normal
+2d926203-1371-4c3f-9f25-70636ca9c8b9	09cef908-07e1-430a-8053-05d1b17a0a02_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-A9VF	TCGA-BF-A9VF-10A	Blood Derived Normal
+a73dcba7-5f31-4257-9d85-0b0a36ec07c0	55fe5fcf-3c20-40f5-a217-73785ef3902a_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-YG-AA3N	TCGA-YG-AA3N-01A	Primary Tumor
+74713299-8923-48d2-909a-9a2361186515	30d81bd6-fe22-44e9-9dc2-81a1f60dbb44_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-A3DM	TCGA-BF-A3DM-01A	Primary Tumor
+ed793623-07c3-4aea-8d2b-3c1bac5a2d28	0dd0718d-5ddf-4c59-8c47-0f51303daeb5_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A3JI	TCGA-EE-A3JI-06A	Metastatic
+b8f003db-5997-43b5-b110-3a0d4049460d	a2815430-61e0-48a8-8e07-ae14019aa8e3_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-DA-A3F3	TCGA-DA-A3F3-10A	Blood Derived Normal
+b8f61458-6c9f-4b02-ae5e-1284d0ee910a	723fb62e-ebad-4324-b576-22c65bdf2d9b_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-AAOX	TCGA-BF-AAOX-01A	Primary Tumor
+6d9ab7b3-934e-45cf-8d98-57f18a33fde1	3248bafd-512c-4096-956f-b4fefc4c4394_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1YX	TCGA-FS-A1YX-10A	Blood Derived Normal
+82c097f9-fb21-440d-86d8-9008d2e226cd	04fd07be-1e5d-48d0-8ae5-e21fddcf797c_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-A1PU	TCGA-BF-A1PU-10A	Blood Derived Normal
+2f3bff6b-2146-4e78-9142-4bb67c6a99bc	5021f109-779f-40d9-871e-be156e58f096_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-A1PU	TCGA-BF-A1PU-01A	Primary Tumor
+a66c6c82-9aed-4f40-a2a9-e98fdcb334bb	f487ff4f-86e2-4f0b-a166-39a39670a9f9_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1YX	TCGA-FS-A1YX-06A	Metastatic
+79d6a085-4af0-497a-a6a2-2524b47db12a	d10573d8-10b1-4b7b-b4de-e3946c95e9b0_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-A1PZ	TCGA-BF-A1PZ-10A	Blood Derived Normal
+703757a0-724c-4443-a9ff-5420d121d0fb	6dd6441f-8e40-4558-adbb-7e569fcc4fea_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-A1PZ	TCGA-BF-A1PZ-10A	Blood Derived Normal
+65dccee4-748a-444f-bfcf-20631ab50548	6778b87e-33a9-4382-9493-07215a7f4447_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A19D	TCGA-ER-A19D-06A	Metastatic
+3b6b3d78-8424-4c52-85f0-29c1d4900d03	10d894d7-3c7b-4dbb-ad20-8ed6a970572f_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2MS	TCGA-EE-A2MS-06A	Metastatic
+81455835-1232-421d-9597-b64a8e2bca7b	e113a540-9ed0-45cd-b3b8-cc8c6e58068e_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A3XC	TCGA-EB-A3XC-10A	Blood Derived Normal
+3426f891-43a1-4f19-9f59-d1035840b389	a77dcb63-758c-46be-9e68-bebd69f2a1cc_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A85I	TCGA-EB-A85I-01A	Primary Tumor
+408baf2f-eb37-4078-a23a-5937815d65c2	c47237b8-13e6-4b9a-9a95-8cba4c66327a_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2MS	TCGA-EE-A2MS-10A	Blood Derived Normal
+b9db0ec9-2b90-491b-b77d-044ca11cfab3	e86e19ff-b225-4c87-9f16-4c931beadc30_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A197	TCGA-ER-A197-06A	Metastatic
+4d13e789-9536-41a9-8224-e55f8c1708df	66d312fc-809d-428b-98e3-a29d211db35c_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1ZP	TCGA-FS-A1ZP-06A	Metastatic
+71f83151-023f-445b-a277-4719530aea82	8d2f1eb2-9ef1-45d1-8ef2-d8c46796b0b8_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FR-A726	TCGA-FR-A726-10A	Blood Derived Normal
+d59f8ded-46b9-4089-94a7-2f16d65cdff0	9c635efb-06d8-4379-b5cd-d93f3f64658a_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A19A	TCGA-ER-A19A-10A	Blood Derived Normal
+4f4c7d3b-a20e-450f-aad0-8ed87dab0136	0b906abc-56b6-4ee0-aa12-3c5a28113867_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A4IQ	TCGA-EB-A4IQ-10A	Blood Derived Normal
+6a646568-d5cc-4a2d-b61c-312f705e2388	e3bf7c48-9944-48c6-b1a0-26b69c28a49f_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2MP	TCGA-EE-A2MP-06A	Metastatic
+9b53b48d-4d01-4470-95f6-b409e404e47a	a5ba51bf-d226-4fb9-a0e2-d154461f4858_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1ZK	TCGA-FS-A1ZK-10A	Blood Derived Normal
+0dffdbec-4f5f-45be-8674-4bd9ed8256e1	41a7b031-d928-4a1f-891b-82fb3f6d548f_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1ZK	TCGA-FS-A1ZK-06A	Metastatic
+ac25aefc-de10-44e8-a001-281d286f7f22	30d50133-6ed0-4aa9-90f0-e45767e0912b_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A1NK	TCGA-EB-A1NK-01A	Primary Tumor
+33e31435-5859-4a7b-98df-9098e9bbe019	75ba6722-1148-4a52-a9ed-68d890238205_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-DA-A1HV	TCGA-DA-A1HV-06A	Metastatic
+d40b294b-bf18-47b2-a0b3-f363807e3c4d	d83db525-4dcc-488a-8229-10641ee96c0e_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-A9VF	TCGA-BF-A9VF-01A	Primary Tumor
+958b8263-c347-4ab8-a3b6-b27cce40bd0e	4687e60e-8cba-4a17-b30b-58e2c0f205b2_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A4IS	TCGA-EB-A4IS-01A	Primary Tumor
+682b83eb-71c6-4e43-b740-4d938b8f4dd3	be14e43c-34e5-4f20-86ba-80226fe02dc8_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2GC	TCGA-EE-A2GC-06A	Metastatic
+594bad20-5f78-4f20-89c1-70e2c6bfa63d	8ce5648e-5d8c-4b99-b39d-5f0d47f98209_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A1A1	TCGA-ER-A1A1-06A	Metastatic
+33127c09-f473-43cc-aa93-56531f86d12b	a63ef2ea-3a24-4da4-89b2-7275652c05a1_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-A1PX	TCGA-BF-A1PX-10A	Blood Derived Normal
+f2b0c002-c934-4ed1-bcff-6285d138960e	89bb0409-1d64-4fee-a5ce-39b9aab6408c_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-GF-A2C7	TCGA-GF-A2C7-10A	Blood Derived Normal
+a541d241-5e84-49c6-af20-9af0b3d6029a	0ba06c9c-43b4-46e7-84f7-5b74abd3444c_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-GF-A2C7	TCGA-GF-A2C7-01A	Primary Tumor
+9fdeec62-9e0e-411b-901b-2072e85a4e51	a396ad04-bfdf-455b-999c-cb539639ec9c_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-GF-A2C7	TCGA-GF-A2C7-10A	Blood Derived Normal
+1745cd73-d91c-42a2-9cea-e2b3dfcf8b99	4cda923b-2193-4654-9525-468cddd89e62_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A19Q	TCGA-ER-A19Q-06A	Metastatic
+8eabec79-4201-4ccf-8ee3-a87368498720	c21a5d55-9790-429f-a4e6-420293c07b53_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A19D	TCGA-ER-A19D-06A	Metastatic
+f7e20b1e-24d3-4eac-8fcf-7c5e134ec27d	b5d10c46-edab-475f-830a-d3de0d187046_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1ZP	TCGA-FS-A1ZP-06A	Metastatic
+5a8aad38-3110-4abf-b568-21ff11ff6e2d	f5e09cf4-dc1d-49af-ad66-dcc9be52fb34_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2M6	TCGA-EE-A2M6-06A	Metastatic
+52121e68-9106-4672-8cad-b30138dbe3f0	8b66eef3-3247-450a-83f7-d73bc809c706_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-XV-A9W5	TCGA-XV-A9W5-10A	Blood Derived Normal
+4b3cb4b4-6022-4bca-8ac3-8629e5116985	22edd867-dcd6-42b5-92bb-025ceb84b106_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-GN-A26A	TCGA-GN-A26A-06A	Metastatic
+9ac62a9d-6f1e-44cd-a50e-7fc38957878e	512f2d57-71fc-4050-ad4f-fbcc6ea2e687_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A29S	TCGA-EE-A29S-06A	Metastatic
+62c29695-d725-48e9-ae54-5498c92f81cd	6920fd0a-82bb-43a4-bc78-c29c42961148_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-DA-A1IC	TCGA-DA-A1IC-06A	Metastatic
+86d158b2-340a-4aff-9620-a26b89f4738a	759ea550-cc56-4f70-bd66-dceaffbd4b0d_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-DA-A1IC	TCGA-DA-A1IC-10A	Blood Derived Normal
+92a916f5-d162-4970-8a52-57b306f69f87	1ba27d0c-297c-4120-b103-376703ae55e5_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A4OY	TCGA-EB-A4OY-01A	Primary Tumor
+47c64c15-6e18-4fb9-8845-cde86febc56c	ac30d454-5cad-4a4a-afa6-3ffdbc5c208b_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A5UM	TCGA-EB-A5UM-10A	Blood Derived Normal
+3dd57622-4775-4a40-bccc-ba0f3fba54fc	75c4a565-3e22-46ba-b9fe-0a43b9556ebb_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D3-A3CE	TCGA-D3-A3CE-06A	Metastatic
+2bbbcb06-2b34-4a63-8922-f8084109adcd	ac6c4a85-5cac-43dc-8875-1d2e3c15f74e_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FR-A3R1	TCGA-FR-A3R1-10B	Blood Derived Normal
+71f3005b-a721-445a-a25e-25892052d8c2	d542b077-131f-4177-83a5-fa68f7127c1d_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-A3DJ	TCGA-BF-A3DJ-10A	Blood Derived Normal
+45e97834-ed67-4dbb-9ea8-d2405025ca0a	528706e9-22d6-4a37-8e2d-2d945cd36f1f_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2MT	TCGA-EE-A2MT-06A	Metastatic
+b4fb02ea-8df6-4df6-835c-bf1a1e75b24f	3c5d5e61-64b7-4d2c-b2d9-8f946a7482f3_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2MT	TCGA-EE-A2MT-10A	Blood Derived Normal
+c38d6436-9bb4-46e3-b784-6ffd0c38dfd1	936fc6fd-3129-43c2-b102-2cbcd4e31dd2_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2M7	TCGA-EE-A2M7-06A	Metastatic
+aa173fa1-47df-4a40-8964-bdea30740a16	b7a8fad9-ea8c-45ba-b6f0-3f57e7d012b9_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A551	TCGA-EB-A551-01A	Primary Tumor
+a74edd2d-33b8-436b-a366-7a3debeefa80	356a2c65-0162-475a-8385-517c92be0d04_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-AAP2	TCGA-BF-AAP2-10A	Blood Derived Normal
+a3aa881e-d00f-4f09-964b-9a03bb0d2376	58098074-341b-4873-895b-257de49cf264_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2A0	TCGA-EE-A2A0-10A	Blood Derived Normal
+5f07bb74-e693-4347-9ba8-d1ce57c12082	98d1f8a0-a931-4bea-be45-97c735fc47cd_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2MP	TCGA-EE-A2MP-10A	Blood Derived Normal
+3903ca53-db39-41ab-8165-dda31be6448c	268a11d4-51a7-491c-9060-7dc559dcdb9e_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-GN-A26A	TCGA-GN-A26A-10A	Blood Derived Normal
+6b2253c7-6b35-484e-b4aa-0c9aa43aff98	0ed3aa95-62f1-4b36-8e5a-21fd973e064f_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A44P	TCGA-EB-A44P-01A	Primary Tumor
+fb80ab94-c08f-4fea-a58a-50d8882053ad	4473278f-ed1d-4391-b15e-498f3f90d5ce_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-DA-A1IC	TCGA-DA-A1IC-10A	Blood Derived Normal
+22b971b2-cd0b-493f-bede-1764c87b4fce	cda46d11-4c5f-4ebb-8507-b8d3587ec7e9_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A44P	TCGA-EB-A44P-10A	Blood Derived Normal
+fbc6e01d-f336-4a0d-ba96-3603c9e2b571	7a603847-b568-4575-925b-e041d1a1cead_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-AAP1	TCGA-BF-AAP1-01A	Primary Tumor
+d6de4be8-8c13-4aba-9e12-f3ffd20874ab	d583ab9a-a74e-416e-967d-97aedee476aa_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1ZB	TCGA-FS-A1ZB-10A	Blood Derived Normal
+c0981a7b-7620-4da5-bdf0-f67d7dba21d4	7457238b-0093-49a0-8b19-f71894346253_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-GN-A265	TCGA-GN-A265-10A	Blood Derived Normal
+fede42b3-9a50-4ac2-b1b2-91ed8381cb4e	4db084c7-2c0f-4dff-995a-a069e011d42c_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1ZB	TCGA-FS-A1ZB-06A	Metastatic
+0c3b4e72-fae4-4f87-89d6-c683d077874e	1f59d036-e946-491d-bcae-847c0a470bb2_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-XV-AAZW	TCGA-XV-AAZW-01A	Primary Tumor
+b96bea95-dede-4772-be6c-8fd6d4cb5f45	e5db58d8-8ae1-47b3-aa3f-cdd7a8ffcf97_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D3-A2J6	TCGA-D3-A2J6-10A	Blood Derived Normal
+72c619af-bffd-413e-b520-24d49cf8d8d7	aca5304f-5ee3-43c5-b824-5ac550e4c07b_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-A1Q0	TCGA-BF-A1Q0-01A	Primary Tumor
+7ceec5b3-ba76-4167-a986-86f708abfba4	bee27bc1-98f6-4819-b8af-ad2d0aaa3dce_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-GN-A264	TCGA-GN-A264-10A	Blood Derived Normal
+fee421db-dc97-4b65-85f4-9c0d31b551af	372afbd2-29fe-4425-ae7f-e29e110ed8a5_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A551	TCGA-EB-A551-10A	Blood Derived Normal
+98262366-e2dd-4b0f-9f7b-7ef1125c3242	507620ef-f0fc-4ac3-a7c0-ea2e36c40f77_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-DA-A3F3	TCGA-DA-A3F3-06A	Metastatic
+0c86c653-13ec-4e84-9223-a8e0b36f6791	9f401771-5387-4fab-b9e5-66cc67567c07_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-A1PU	TCGA-BF-A1PU-10A	Blood Derived Normal
+69e76cc7-ae2c-48bb-9b52-e628f4a4af29	cdd2ea14-07c6-40f9-846a-b28daf3762e3_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2MC	TCGA-EE-A2MC-10A	Blood Derived Normal
+10facb30-1a77-4b31-af21-4f022f18e226	aac0230d-759f-4b2e-9904-3f7822e6b13c_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-A1PU	TCGA-BF-A1PU-01A	Primary Tumor
+db553142-b899-473e-bf46-eb07ac6254ec	e452bb23-83b0-4e0f-bb2d-6ddb1562b223_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-A1PZ	TCGA-BF-A1PZ-01A	Primary Tumor
+6171fafc-babd-473c-8162-8362b654b32b	36e999ee-96c4-47cc-865c-4eb8c9306c57_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A19D	TCGA-ER-A19D-10A	Blood Derived Normal
+701b256a-7ae1-4941-97d8-0e4d7313212b	b7afb900-2269-4585-be1f-a72f71499520_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A19D	TCGA-ER-A19D-10A	Blood Derived Normal
+37c3a983-a835-4f11-a398-5b92b0f8d56a	25d65d8b-ed75-47d6-b7f6-95cf26ccbe06_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-A1PZ	TCGA-BF-A1PZ-01A	Primary Tumor
+f307aa8a-db7b-4580-b07c-2046121f8e28	d9eea69f-c766-4424-93ac-f2258a949cab_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-AAP7	TCGA-BF-AAP7-01A	Primary Tumor
+13901232-7ef7-4973-b4d8-d443ba142917	e5cd2522-30a3-4ca0-b342-942d98e02f97_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1ZP	TCGA-FS-A1ZP-10A	Blood Derived Normal
+43863130-7567-459d-8259-f6b837585c67	46ecbb48-9320-47ec-8bd8-4657e1885627_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1ZP	TCGA-FS-A1ZP-10A	Blood Derived Normal
+b6c32cd2-8d35-432a-a489-06c66db4f880	c1e54a2f-8981-4573-bf31-a22ace6a0892_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A97M	TCGA-EB-A97M-10A	Blood Derived Normal
+d4f57369-9278-43bf-9405-4a9990d74f7a	5edf32d7-7e4d-42dd-90d2-eebb5d7b223b_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A3XC	TCGA-EB-A3XC-01A	Primary Tumor
+b4c988d9-c039-463f-a9ce-28a244a0f183	39eeea21-766b-46a8-91ed-f2d5742ca0cb_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FR-A726	TCGA-FR-A726-01A	Primary Tumor
+dd2781b0-3023-449c-bf39-a1d59882c531	97efbcb0-a948-4075-bae2-3ba633cee61f_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A82C	TCGA-EB-A82C-01A	Primary Tumor
+5b445e52-c771-4064-881b-341cf2e1a0fb	cac670cd-b856-4224-aadb-b64f3062d460_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-XV-A9VZ	TCGA-XV-A9VZ-10A	Blood Derived Normal
+27779383-1188-4e01-b3e7-e2e711805612	831c62d6-6877-40e8-ab52-43b18fd0f612_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A82C	TCGA-EB-A82C-10B	Blood Derived Normal
+0d5c3751-bbe4-435e-8e3d-14053c5de5ee	1f8f2268-eac0-40ac-ac8d-b0472dbe6811_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-AAOX	TCGA-BF-AAOX-10A	Blood Derived Normal
+513cd8a1-dddc-45a5-98b8-e5244d1fba92	a536ca41-2718-41d6-9f86-9ea43f51a3a9_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2MC	TCGA-EE-A2MC-06A	Metastatic
+5d82b19a-c5ff-494b-8fe2-89e87bcbc893	97955976-6f7e-4890-a478-c205eeea7277_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A19Q	TCGA-ER-A19Q-10A	Blood Derived Normal
+03b04ed1-478e-4b65-a1a4-e0920297cc8b	9ff91018-9d55-43be-9ae3-945caecb0cbb_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-GN-A266	TCGA-GN-A266-10A	Blood Derived Normal
+201b1c90-9092-47f3-b79a-c2154b4d7dcf	b8c13292-e9bc-4d9c-94e7-21c4778b6752_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-AAP7	TCGA-BF-AAP7-10A	Blood Derived Normal
+39977467-d67f-4a38-a3e1-792b9a0d9a08	564616de-9fef-436d-b3a0-5afa65276d94_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A197	TCGA-ER-A197-10A	Blood Derived Normal
+b8a2adfc-3021-47e1-9a24-fe8128e6a0b7	cfd54992-fd66-4234-9468-90d1a1219520_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A19A	TCGA-ER-A19A-06A	Metastatic
+d6a12dc4-5c89-4f52-bc2c-c2bf4af5a898	5a3f48b0-8725-41cf-9e68-06b19612cca5_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A4IQ	TCGA-EB-A4IQ-01A	Primary Tumor
+257813fc-0979-4f9f-b487-058f9263c01d	e0b954c3-aa6b-49b3-bffb-df59a87c0f2c_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-XV-A9VZ	TCGA-XV-A9VZ-01A	Primary Tumor
+03c0432b-3e7b-45bd-91d6-5d0a220e2794	1731d90a-9029-43d2-8b53-8e00d6e6f0a5_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A85I	TCGA-EB-A85I-10B	Blood Derived Normal
+5ae6251a-94e8-446b-830f-30556e054da6	94033a50-179f-411d-a203-5ed276b46794_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-XV-A9W5	TCGA-XV-A9W5-01A	Primary Tumor
+e9a4de41-5dc6-40a7-9b50-9c3d374acafd	96f6e467-d0af-43db-bf70-9a8b714d1754_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A97M	TCGA-EB-A97M-01A	Primary Tumor
+36913b5a-1377-4265-bcfc-1e3c3798459f	3d33a1e2-8ac8-4ee2-8659-2b15eb1c3949_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-DA-A1IC	TCGA-DA-A1IC-06A	Metastatic
+491b8395-1bc1-404f-a7aa-746c3f92be2f	b20007a8-a0fc-4c52-ae5c-d4a8a34257e1_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A5UM	TCGA-EB-A5UM-01A	Primary Tumor
+89d96661-defd-434d-b266-a57388d5005a	0b042ac9-e44a-4e24-9aa6-bee460c63e0d_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A4OY	TCGA-EB-A4OY-10A	Blood Derived Normal
+2aef222d-fa1b-4703-9b01-4ea591aed3b3	988c399a-c524-4854-9fb7-45ad726b0016_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-AAP4	TCGA-BF-AAP4-10A	Blood Derived Normal
+66f9acf4-87af-44e7-81ec-0822daa6118e	f0ff8ef6-85b4-4241-bdf3-e5ca4549583a_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A17X	TCGA-EE-A17X-06A	Metastatic
+9412e569-8cd9-43c0-9384-a5690e053071	23eaf8d3-5c75-4559-a44a-69d4b179ad3e_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-AAP4	TCGA-BF-AAP4-01A	Primary Tumor
+12a58589-d436-44c6-9206-cff4db4467a0	07c8ba8d-7364-44d6-a546-5bfff1c795ba_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D3-A3CE	TCGA-D3-A3CE-10A	Blood Derived Normal
+8370541b-8a74-407a-b2e3-2d90ba287eaa	ee7b8ced-eb8f-46c1-b07f-ba34a15d8bed_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-AAP1	TCGA-BF-AAP1-10A	Blood Derived Normal
+ee0f5574-1cfe-48cd-a429-98468e597075	65177afa-3353-49a3-b78c-86ee148f3122_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FR-A3R1	TCGA-FR-A3R1-01A	Primary Tumor
+a733eedf-9607-4ebf-b272-c38bb0c81da4	4bb18523-e93f-4684-8b2e-acaf1e583c18_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-A3DJ	TCGA-BF-A3DJ-01A	Primary Tumor
+17e9f547-0406-47d7-aecf-a598e12fb50c	3f2ecbcd-5c9e-4d57-8aa5-962e2e86a83c_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2A0	TCGA-EE-A2A0-06A	Metastatic
+db9d6f6d-4786-42e4-836d-330d11e952a1	dbd444a5-622c-4e3c-bfbd-15a7cd824ea8_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A29S	TCGA-EE-A29S-10A	Blood Derived Normal
+2e03d05f-3e5f-491c-a2bc-e84d5473a6b8	3578d9cb-ab85-4041-9777-8a4c3ea3bdee_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A17X	TCGA-EE-A17X-10A	Blood Derived Normal
+80a3d972-a04d-4b9c-807f-b6fcf97e36b6	2da18ff0-eb58-450f-8179-b903bc9c03e6_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-GN-A265	TCGA-GN-A265-06A	Metastatic
+a34c72de-16f5-41f7-91e1-ba38a3d89d3f	ef7e375f-a88c-4030-acfc-d8bab223820a_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D3-A2J6	TCGA-D3-A2J6-06A	Metastatic
+4180dd95-d56f-47e5-b1ce-8867dd7ece82	d42f78db-e40d-4e83-9434-8e473ae4294a_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-XV-AAZW	TCGA-XV-AAZW-10A	Blood Derived Normal
+1c6ff26b-91f2-4c20-8f10-38337b012877	24c9dee9-a8bf-4476-a041-0979e173b035_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A3XD	TCGA-EB-A3XD-10A	Blood Derived Normal
+e3a39129-6451-4827-9e0a-bb93c869f589	c3ff18f0-682b-426e-9885-7dd12b1aa703_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2M7	TCGA-EE-A2M7-10A	Blood Derived Normal
+4e9281e1-75ef-4b1f-986a-bbf7025bfacd	450e8eba-a3a9-4dcb-b423-e33dfcd5c34e_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-GN-A264	TCGA-GN-A264-06A	Metastatic
+e536a1bc-cfae-4a1e-8681-bcb4b9f3f94b	f8c1e946-924d-4eb3-a2b4-04756b782f2c_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EE-A2M6	TCGA-EE-A2M6-10A	Blood Derived Normal
+807868d7-0ad3-448a-be03-380d3b8e3f9f	653c08ea-732f-425c-9e60-6ffde367351d_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A51B	TCGA-EB-A51B-10A	Blood Derived Normal
+08f660fb-7835-4fc2-8d9d-84c81f6dd4e6	bc41bd77-e955-4761-889b-4aa787cbeeca_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A51B	TCGA-EB-A51B-01A	Primary Tumor
+e880ba8a-aec8-4a52-ba62-d1ae8df4b533	f0c6b540-64cf-420f-bc6c-d1ae6882d50a_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A3XD	TCGA-EB-A3XD-01A	Primary Tumor
+82493a94-d47f-46f8-beb0-ae921ebdf20a	6f3c8671-1b41-4f0e-a2b6-b2756e209db9_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-A1Q0	TCGA-BF-A1Q0-10A	Blood Derived Normal
+e996c6d9-9d4c-4d23-9570-aeb01aa36cd5	c94f7e24-8073-4786-bfc0-c45a37d85b2f_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-A1Q0	TCGA-BF-A1Q0-01A	Primary Tumor
+4923a0da-1ef4-4b57-9ea2-5a4da1b5c9e1	f0a92aec-2c16-4b97-85b4-019d30c9efc9_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-BF-A1Q0	TCGA-BF-A1Q0-10A	Blood Derived Normal
+10ce0d8c-ccdf-4dc3-9383-dc13526eeb69	92355bc5-24c5-4e1a-93eb-b346d169868f_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A4OZ	TCGA-EB-A4OZ-10A	Blood Derived Normal
+8e7c5421-1582-4079-8e13-e3575c245c84	d2393dd6-8ce3-42d4-bd36-27fef8f4f170_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1ZE	TCGA-FS-A1ZE-10A	Blood Derived Normal
+cf6d9524-7184-4502-8b0c-087d8419747b	16d2cc2b-3d7c-4180-8ae2-b8a977064ce6_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1ZJ	TCGA-FS-A1ZJ-06A	Metastatic
+925e01bb-fd09-4461-9771-5756076c9b4b	9c1427b0-b112-4bb7-89b3-27934f92e077_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A19T	TCGA-ER-A19T-01A	Primary Tumor
+4f9fcfba-fe82-4afd-bf0a-96acf8eefc25	fa2ee471-5348-4ed3-a421-f188d6fa00c0_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1ZS	TCGA-FS-A1ZS-06A	Metastatic
+2cb29d01-c094-48be-934c-6b98295dd785	2bab4819-3bc4-4970-ad50-71c1977724ca_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1ZS	TCGA-FS-A1ZS-10A	Blood Derived Normal
+ac821f48-d9f1-4038-a19a-db25cc5f6289	1f0b2c4c-7a6e-462e-b67d-a81771f77fe0_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-HR-A2OH	TCGA-HR-A2OH-10A	Blood Derived Normal
+b711f5d0-9166-44ac-9b5e-45939ddc07a5	cc15f1d0-36e1-44e6-8fee-0a6deb3fa407_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-HR-A2OH	TCGA-HR-A2OH-06A	Metastatic
+fd9958e3-1b83-4279-9975-72b3762bb436	0ef2ba62-bd6b-4934-9496-532c291ee0d0_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A24C	TCGA-EB-A24C-10A	Blood Derived Normal
+c243e088-c053-47ae-baa7-c70bd9ec6fd5	b0b91e42-b5a5-4f4c-89d3-75c234b664b2_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-EB-A3XF	TCGA-EB-A3XF-10A	Blood Derived Normal
+9c97daa9-d4ba-4e08-af8b-03edc74fd7a5	5d27b80e-c27e-47b3-9689-63224b08c95b_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1ZH	TCGA-FS-A1ZH-10A	Blood Derived Normal
+1df4d394-6b0b-4641-be76-1d278adce7d1	63c72f1c-4a39-4e59-b615-1809b196a2c8_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D9-A148	TCGA-D9-A148-06A	Metastatic
+ee946de2-7365-417f-a84d-2baa7959056f	b036b9bb-f047-427a-bd1f-7bdec7c15002_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D9-A148	TCGA-D9-A148-10A	Blood Derived Normal
+520be164-0a4c-4ed4-89a4-0677d3a71b65	3a3f2b88-9e3a-4b69-99e2-d6b98c5f465a_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1ZF	TCGA-FS-A1ZF-10A	Blood Derived Normal
+ab080b3a-df65-4bb4-931a-a483eaa097a1	e694c1a2-86f0-43d0-95cc-4cfaf0b04060_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A19T	TCGA-ER-A19T-10A	Blood Derived Normal
+3f8063ce-bb9b-4340-8e3d-62925eb9fff2	ffe107b9-1019-47d7-90dc-3900385015a8_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D3-A3C8	TCGA-D3-A3C8-10A	Blood Derived Normal
+9b6faa98-4c68-4a95-9675-666a4246e7cb	d1942d67-3c90-474e-9164-e76ddf9e335a_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A19T	TCGA-ER-A19T-01A	Primary Tumor
+06da2583-83c9-4537-988d-a1c17db59537	61178f55-37d8-4c86-b1f3-3480d4f7a494_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A3ES	TCGA-ER-A3ES-10A	Blood Derived Normal
+7c15259c-bbe2-4962-80ce-f01fa723ca3a	69b15a85-af40-4fda-af0a-e71fbbdfa7b6_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A19T	TCGA-ER-A19T-10A	Blood Derived Normal
+c29c15c8-e29d-4326-9b16-938fc710284e	f088e04c-d72e-43e4-acbf-bbf455866244_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-D3-A3C8	TCGA-D3-A3C8-06A	Metastatic
+6500aa33-0dcd-43d3-aff2-47ac5ae38d52	238f6b9d-5469-4510-8fad-6c83d7652dfe_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A2NC	TCGA-ER-A2NC-10A	Blood Derived Normal
+493fbc97-06c5-41d2-86f8-da5c96611b05	7d63e49d-b427-499d-834a-d78b54b5713f_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A2NC	TCGA-ER-A2NC-06A	Metastatic
+9fd9d5d8-a13b-4ac2-8dd3-347acfd68e10	73914542-306e-4dfb-a6d2-538baa7344f2_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A3ES	TCGA-ER-A3ES-06A	Metastatic
+15d5eb6d-7e3d-48f1-ba2e-6a6435b3652a	2399ab13-abfa-480e-9fda-7947edc420be_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-GN-A262	TCGA-GN-A262-06A	Metastatic
+3beb7d3a-a4ac-41de-a07e-5cffbe09377f	eb8c867e-d2da-48c7-bae7-5aea6d9aaf1d_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-GN-A262	TCGA-GN-A262-10A	Blood Derived Normal
+bdd9340d-2e4c-4bc9-abb1-68de6c4aed96	4839acfd-ce38-47af-aafb-b423aac76bf4_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-FS-A1ZY	TCGA-FS-A1ZY-10A	Blood Derived Normal
+d75d2531-f12e-4193-a45c-30662b88ca04	d1935762-97d1-4721-b253-dee909661f39_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-SKCM	TCGA-ER-A19T	TCGA-ER-A19T-10A	Blood Derived Normal
+df32b157-b90d-4b13-9ee7-d2a58137a4bf	TCGA-WC-A883-10A-01D-A88P-36.WholeGenome.RP-1657.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-WC-A883	TCGA-WC-A883-10A	Blood Derived Normal
+179457cc-ed01-4da3-aa45-0e4b35734a97	f31297ef-761d-4e63-abc7-507f18659d65_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9ES	TCGA-V4-A9ES-10A	Blood Derived Normal
+04b743b5-d3b5-459a-81f7-4c72d7ce804f	9a4969d9-222e-4ba3-b0f4-34f42c0d1a19_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EX	TCGA-V4-A9EX-01A	Primary Tumor
+5e2f0d23-d238-49c3-99f1-81341272d9b1	27bfefeb-d1b1-4120-8369-3c1c3ab1de44_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EF	TCGA-V4-A9EF-01A	Primary Tumor
+a999be63-d34c-4d80-8dbd-0722eea16b0b	667f5a4b-76e1-4709-b384-78bf22280855_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8KE	TCGA-VD-A8KE-10A	Blood Derived Normal
+d676cc8f-37dd-4742-ad69-843388ade4f2	119b486a-77df-49a2-80a0-19555deb7573_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8KE	TCGA-VD-A8KE-01A	Primary Tumor
+0dfe5fd3-dd6f-4580-ba10-a7e1708a90a7	38812469-1716-4b6f-8dbe-822654ac13f6_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9F5	TCGA-V4-A9F5-01A	Primary Tumor
+d436cf22-d4f0-4342-8525-45ef56aad2f2	4cf18ca6-9715-49c9-8e0c-4f1110064808_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9ES	TCGA-V4-A9ES-10A	Blood Derived Normal
+fb5606c8-1705-42f0-bab0-e46ba63a85cc	c52381ee-1176-4947-9784-bd132807a916_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-YZ-A983	TCGA-YZ-A983-10B	Blood Derived Normal
+32033dd9-3bcb-47b3-a1da-64e0dbd0bad7	3ffc056d-f705-4996-8849-958c58897107_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-YZ-A983	TCGA-YZ-A983-01A	Primary Tumor
+68ecc300-38a0-4687-a5dd-903316b7379c	d544884f-7e0d-4029-b778-55e14b5c2c38_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9ET	TCGA-V4-A9ET-01A	Primary Tumor
+117991a6-36c0-43f7-8186-ecad075737d5	a07a62c3-8797-408a-9d1f-5d180580ee5e_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8KO	TCGA-VD-A8KO-01A	Primary Tumor
+97f4a813-af35-450c-9c19-d8d87bc42e36	093e5c35-3b34-46ab-911e-b2f877f0d0cb_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9F7	TCGA-V4-A9F7-01A	Primary Tumor
+0738f2b6-352a-4457-892f-03c9ece1d382	f2c64607-ca1d-4c97-bb8a-a5f2702e1038_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-WC-AA9A	TCGA-WC-AA9A-10A	Blood Derived Normal
+781143c6-7c8c-4456-a96a-78b1fdbdd650	990c3bf0-14f8-4fe5-ba17-237bfd169b12_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-WC-AA9A	TCGA-WC-AA9A-01A	Primary Tumor
+21e0e979-ab1d-471c-8be8-e262fb5c6ecd	758f780e-e065-4fe5-b776-337817fe5be3_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9E5	TCGA-V4-A9E5-10A	Blood Derived Normal
+15d602dd-675c-44cf-85ed-08098747aa89	ce4927d1-2a65-4bef-98e5-edd02a341820_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9E5	TCGA-V4-A9E5-01A	Primary Tumor
+bc05763e-3de5-41f1-acf9-3e8a358cb3db	0def670c-6b2d-41de-97e9-f012033aae5e_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9E5	TCGA-V4-A9E5-01A	Primary Tumor
+029436ce-5977-41e1-b535-48c3ec18fd6f	a1db3cef-97f0-425f-993c-a89e3e4f4982_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-WC-A881	TCGA-WC-A881-01A	Primary Tumor
+d99c9eda-cf7a-4988-a2a9-9ae6504dc50e	87781ea6-c3e9-476a-b5d2-e58fc557fc7a_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9F2	TCGA-V4-A9F2-01A	Primary Tumor
+a1f2727e-576b-424d-adbc-a79e459eb8ed	807605db-803a-40eb-9358-eac8ccaebf88_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9F2	TCGA-V4-A9F2-01A	Primary Tumor
+4d9fc9c2-e697-4f66-ac2c-55a47346f152	50ae90fa-2a06-4f7a-952d-631a766060e1_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EK	TCGA-V4-A9EK-10A	Blood Derived Normal
+ec62dd27-02b4-4fb1-a3a2-396c37a6a10e	395df53f-bb50-47cf-bab1-c7721d16fb38_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8KI	TCGA-VD-A8KI-10B	Blood Derived Normal
+68576dac-c6ee-426a-b761-90fd27552de8	4ca8558d-9b6a-4fe0-915b-c4a9abc927d5_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-RZ-AB0B	TCGA-RZ-AB0B-10A	Blood Derived Normal
+3ac4bd00-de04-482b-b056-d0e3b5ca05bd	4208e47b-01bb-4c91-9411-f214f46f656c_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8K7	TCGA-VD-A8K7-01B	Primary Tumor
+964b7afd-293f-49f3-ba6e-282955a52b88	9fa16c91-f52d-49ad-a9d4-1f8579b2cb5f_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-RZ-AB0B	TCGA-RZ-AB0B-10A	Blood Derived Normal
+cf9322fd-d57e-48bf-b01d-d75f525735e3	b2d03978-b98b-4fb4-ba5c-50ce935c0056_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-RZ-AB0B	TCGA-RZ-AB0B-01A	Primary Tumor
+468ae099-4aae-402b-a86f-573b98b99a06	dee2ef23-9722-4006-ac98-0f262eb9ecf7_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8KB	TCGA-VD-A8KB-01A	Primary Tumor
+6f4a90da-9a0e-4009-ab6d-7b32f79583b3	9d61aa78-1ee3-4606-ab37-0b5ff74aa8af_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9F8	TCGA-V4-A9F8-10A	Blood Derived Normal
+44efa8ae-68fc-4f7f-9662-834adfc1db33	5fabeafa-9ade-43aa-b4eb-979826fae9bf_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9F8	TCGA-V4-A9F8-01A	Primary Tumor
+07a694d7-b37a-4350-804c-7defd3d7f9a8	8f6b5477-e2db-4ad5-a8c3-b84d1cce03de_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EL	TCGA-V4-A9EL-10A	Blood Derived Normal
+d14a4526-8d88-431b-843d-48be7e25fa1a	01126707-cad1-4c8c-9fa8-3348b9a0fb67_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9F4	TCGA-V4-A9F4-10A	Blood Derived Normal
+89d73c8b-503b-4226-8861-18ddd01223e3	ce12d86b-138c-4096-a678-4730239de160_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EL	TCGA-V4-A9EL-01A	Primary Tumor
+ce3aea4b-57b7-469b-be77-c8f04ebcb418	0f54441c-5183-489f-8362-836313104e4a_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9F0	TCGA-V4-A9F0-01A	Primary Tumor
+8382d2f4-f2b3-49b9-b27b-d1dc0ef4c7f6	431ce2c0-57e8-4b1c-b5d2-3a8ea49a3d51_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EM	TCGA-V4-A9EM-10A	Blood Derived Normal
+3fd98829-7e22-4cec-8304-d06bbcafa6c3	706721d2-3759-4664-bfb7-8ff7273c2786_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9F1	TCGA-V4-A9F1-01A	Primary Tumor
+c7e4430d-f4dc-4dcc-a85a-ae595ef8c459	eb63af0f-8072-47f0-8cc6-02a5b28126c7_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8KJ	TCGA-VD-A8KJ-01A	Primary Tumor
+a9bdb6ba-9116-465a-9ff5-556da6a4a3dc	e82a1af4-8319-4a81-95a1-7e087bcd9012_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8KJ	TCGA-VD-A8KJ-10A	Blood Derived Normal
+6deec46b-3491-484b-81c5-0eb7a4bf0154	8211b0f6-a6d4-4eaa-9465-9c35db27fa3f_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V3-A9ZX	TCGA-V3-A9ZX-10A	Blood Derived Normal
+1b5b58c4-8f92-45c5-89d7-091be1b05e23	04b4636b-bcd0-455f-8260-6f1fb631aeeb_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V3-A9ZX	TCGA-V3-A9ZX-10A	Blood Derived Normal
+c59faf3d-4d62-4ced-b0d6-a2391f57fef4	89001e13-8e01-40a9-bd56-b2c1fc52241e_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8KD	TCGA-VD-A8KD-10B	Blood Derived Normal
+6e35a164-1d7f-4f97-badb-f222071b4700	02f5617e-7fae-454c-9e3e-80a6c5d887eb_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-AA8R	TCGA-VD-AA8R-01A	Primary Tumor
+46b2a927-606c-40ae-ba1a-8e1cbfe9bcbf	4d1068dc-e769-4374-b895-4430a9b03322_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8KL	TCGA-VD-A8KL-01A	Primary Tumor
+ac5f5a30-e23e-4be9-bab2-cfbb40420892	54872e13-9951-48a2-8842-923f122b41bb_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-AA8R	TCGA-VD-AA8R-10B	Blood Derived Normal
+c8e7e7be-96e1-49cc-82fa-f4017fe45811	c026035d-2dc4-490e-9bba-f0d4386a86ad_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-AA8O	TCGA-VD-AA8O-01A	Primary Tumor
+26b2636a-0cc5-4fe3-bcb6-83e57f2f229b	925e7575-e4c8-420f-85bb-0083a85e06b1_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EO	TCGA-V4-A9EO-10A	Blood Derived Normal
+e1265793-64d1-44e1-a414-fe04a32be1c1	b0a67e95-2ed2-43eb-9490-5f94bb8e21f4_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EO	TCGA-V4-A9EO-01A	Primary Tumor
+f13acfe3-3e89-48ae-94ed-228963d9dc71	4f2ef5c4-f223-4123-9bfc-537171466cdb_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EO	TCGA-V4-A9EO-10A	Blood Derived Normal
+aa177d3a-4b1c-4eaf-a688-e41838acb9c5	f4a4a544-2985-493f-8101-1859049a3e57_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8KA	TCGA-VD-A8KA-01B	Primary Tumor
+af56a932-1516-47a5-ac93-a06da816a91f	ce40220b-d109-4a14-9c17-3c7dfd0a737a_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8KA	TCGA-VD-A8KA-01B	Primary Tumor
+e06e1293-4b9d-46c7-a6cf-4f71e2548303	6bbf76b9-75c8-41c1-a4b3-627ba947d853_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8KA	TCGA-VD-A8KA-10A	Blood Derived Normal
+2d1e528b-05d9-4881-bfa7-587ddb9f5713	2bba69df-d77d-443a-a115-894cceac2270_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8KA	TCGA-VD-A8KA-10A	Blood Derived Normal
+5e1ead5c-7d29-489c-9b9c-4b809175f558	5fe9b591-21c0-4597-9dbc-2746ea7d1d44_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-AA8S	TCGA-VD-AA8S-01B	Primary Tumor
+fef668f2-36d9-4697-861d-9548d985a2d7	ec0faca1-95bf-4efd-a959-88f50bad9ba6_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-AA8S	TCGA-VD-AA8S-10A	Blood Derived Normal
+bea8c161-c011-40df-86c0-5cdd1276d9a5	3782e96a-456f-4747-b75b-a48597edfd90_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9E9	TCGA-V4-A9E9-01A	Primary Tumor
+4b34199f-b937-404b-b187-86180bd2f022	eb217f26-4d34-4c7e-b6f6-ac30f771cc5b_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9E9	TCGA-V4-A9E9-10A	Blood Derived Normal
+16b49306-556f-4806-aff0-a429911449a8	afa1d97e-21fe-4377-9d52-d015b4dcebe0_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-WC-A880	TCGA-WC-A880-01A	Primary Tumor
+2f026046-bc56-45ba-bad1-935720a04f06	df96eb5c-0404-430b-ace8-c335e63149a5_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-WC-AA9E	TCGA-WC-AA9E-01A	Primary Tumor
+d78c8a6c-165f-4fc2-808c-2b36a774f84a	03211de4-51eb-4ab9-84cb-30d7a6f12025_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8K9	TCGA-VD-A8K9-01A	Primary Tumor
+72d39ba6-6da4-453d-8640-f942fb14e9b6	d28b002e-938a-4b9e-9e73-39b9906421fb_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EW	TCGA-V4-A9EW-10A	Blood Derived Normal
+54f3887b-58c3-4081-8219-2c9ca51ae51e	dd9e52b6-805f-4863-a225-7e115051c317_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8KG	TCGA-VD-A8KG-10A	Blood Derived Normal
+b518aa79-ad60-4d8d-aa89-3c5a1addec79	1ca49d5a-7db2-47bc-a8d1-e138a3076992_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V3-A9ZY	TCGA-V3-A9ZY-01A	Primary Tumor
+ebc3d301-6e8d-4436-898a-5a2ac37f1094	cd97490d-738a-48a2-b014-f9db48de45fa_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V3-A9ZY	TCGA-V3-A9ZY-01A	Primary Tumor
+53466ce9-26bd-46fe-82ee-872fe511821e	51adba34-5093-4e42-b25d-dfab41077132_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EH	TCGA-V4-A9EH-10A	Blood Derived Normal
+8ea2a6a4-bc6b-4ea1-949c-8bf64827b2b2	31a138fe-def0-46f4-9652-c6edc5701506_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EJ	TCGA-V4-A9EJ-10A	Blood Derived Normal
+b3f667f5-5110-4c9f-a1f5-a7aa344a2ad3	be0469c3-045f-4825-8110-0d1653aff663_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9ET	TCGA-V4-A9ET-01A	Primary Tumor
+691693e5-27fd-44bb-b5c5-924f59b58d50	6bc51720-1129-4403-a2ba-3124dcbe629a_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9ET	TCGA-V4-A9ET-10A	Blood Derived Normal
+4146ac83-961c-437a-9dce-37651c43b21c	eb7afc59-40f4-40c3-a717-fef5061eb43c_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9ET	TCGA-V4-A9ET-10A	Blood Derived Normal
+a411d806-3a6a-4dd9-a729-85402a6e1694	7812f73a-4603-44b4-84c4-cefd5fc654a8_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8KO	TCGA-VD-A8KO-10B	Blood Derived Normal
+d162bde7-2cf5-4d98-b347-3352f3175c9f	07397855-a0d5-4287-a21b-5ab83a4e0de0_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9F7	TCGA-V4-A9F7-01A	Primary Tumor
+ca29c9f3-8314-4eef-ab72-8bfd0913a2c7	78687eb5-256e-45d4-9e73-47be4b7388e9_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EZ	TCGA-V4-A9EZ-01A	Primary Tumor
+8b7a30d1-1e60-4749-8a87-eecf861d280c	5e3392ee-1e13-4220-aef8-b06681383756_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-AA8N	TCGA-VD-AA8N-10B	Blood Derived Normal
+6ca43d51-b26e-42a8-a535-1b5cf8a910c8	6c22a928-cd61-4d62-b401-a4be19418177_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EZ	TCGA-V4-A9EZ-01A	Primary Tumor
+b8029517-ad4f-46d4-b89f-e50f8b301a9c	31310b3f-6936-49c3-a929-3be145c274d5_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EZ	TCGA-V4-A9EZ-10A	Blood Derived Normal
+f5a5cfc4-0eb4-4847-a55c-4170cf60ad45	91b9ccdc-9a01-41d2-b641-6a25a1540715_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EY	TCGA-V4-A9EY-10A	Blood Derived Normal
+162b017b-c6d4-4770-9979-8797a4d5c37a	1f56c052-5097-4792-88cd-eaea99047778_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8KH	TCGA-VD-A8KH-01A	Primary Tumor
+9e209f1f-51ea-47be-b53c-14b08ce93d84	08c69fed-df70-4eb0-869c-ab304e7ef7d9_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8KH	TCGA-VD-A8KH-10A	Blood Derived Normal
+15de18a3-f248-4f54-9968-842c8a9d1c00	4a25e140-632b-481f-8d50-49433ecef545_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8KH	TCGA-VD-A8KH-01A	Primary Tumor
+d2ff4834-3c67-4251-906d-db255515274e	5e80ca54-d6f1-4061-be7c-5583945cfd81_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8KH	TCGA-VD-A8KH-10A	Blood Derived Normal
+c08dd8fc-e68a-4c8b-ab0d-25f95b44c179	b145c816-3917-4e1c-a787-d0e92bed09d5_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EV	TCGA-V4-A9EV-10A	Blood Derived Normal
+c9cfec58-8c19-4d58-a02e-717bec8f1b53	952ede00-0cd6-493d-8b17-a97a160dd7b4_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EV	TCGA-V4-A9EV-10A	Blood Derived Normal
+8f5609a1-a350-469e-95fb-7ca1f5627266	8b592d6d-3061-4688-a9ef-073eef532707_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9F2	TCGA-V4-A9F2-10A	Blood Derived Normal
+4fa0e0a7-cca5-419b-9b0b-bc1399e72269	9d0b4423-fe74-4d68-859c-defa836be221_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9F2	TCGA-V4-A9F2-10A	Blood Derived Normal
+b39b9620-9eaf-4aa2-8da6-83b51de6ffc9	9cda716a-e97d-4987-bda1-80664799fefb_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EK	TCGA-V4-A9EK-10A	Blood Derived Normal
+8ef51359-a353-4a33-bb6f-cbc8b0dadeb6	1c61128e-999e-4211-a1d6-0c636b65f3b8_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-WC-A87U	TCGA-WC-A87U-01A	Primary Tumor
+416dc194-28b8-408b-ac93-92ca9f41634b	995a07a5-db0c-4dd3-8d86-4c8c0dadd895_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8K7	TCGA-VD-A8K7-10A	Blood Derived Normal
+44079c1f-7564-4a3c-9ce3-0568cef848b6	53880b08-7ebc-4baa-b92c-d6a42e805908_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8K7	TCGA-VD-A8K7-10A	Blood Derived Normal
+1ab54921-3b57-4952-8207-398b7248836a	1837571e-8d54-4ba2-a9fb-b7160bfd38bb_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9F4	TCGA-V4-A9F4-01A	Primary Tumor
+2edeae21-0310-4cd2-9b49-6eb294174a45	9ead8017-746d-4d62-ad58-947169245690_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9F4	TCGA-V4-A9F4-01A	Primary Tumor
+c2a30ff2-8f6a-457f-8d78-23df78748b74	3263b1fd-dd80-4509-8f1e-02c0543a8030_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9F4	TCGA-V4-A9F4-10A	Blood Derived Normal
+a52d1ac2-e4f4-4a23-9a49-c406974cb5ba	719190e5-98b8-405e-b31f-98a27b3a7cf9_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EM	TCGA-V4-A9EM-10A	Blood Derived Normal
+846bb7e1-1174-4abf-9a20-a3cbde26fd72	0d77b5d5-25ec-4411-b800-26fbf24a4418_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9F0	TCGA-V4-A9F0-10A	Blood Derived Normal
+97ccd9d1-6e56-4856-951a-c44e52b961e1	a9c18a3d-e88d-4429-8b69-1eae04c2b305_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9F1	TCGA-V4-A9F1-10A	Blood Derived Normal
+d2d39af4-e459-468c-927a-d41cb54be393	4f2e9f42-b2d9-4a6d-af01-7aa1108575fe_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9F1	TCGA-V4-A9F1-10A	Blood Derived Normal
+fecb3312-bffd-48ee-a6b0-b0d5817f745b	7805946c-c6f6-4d2f-9dc1-de19965dc7a1_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-WC-A884	TCGA-WC-A884-01A	Primary Tumor
+42fad92b-209e-4343-8bed-d7f05dddbe62	c46e4062-0638-485c-8019-170b62333c8b_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9F1	TCGA-V4-A9F1-01A	Primary Tumor
+8e63c1a2-d855-49f6-b55c-3cc7ee6fc121	65c5261c-a028-4fb0-b117-82f3d6a3cb4c_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8KD	TCGA-VD-A8KD-10A	Blood Derived Normal
+1e91bdab-d307-4093-8f94-25496cc739b2	00f4361b-02bb-473e-9980-94827fe8a91f_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-WC-A885	TCGA-WC-A885-01A	Primary Tumor
+3347f070-b5ba-4519-a8d7-d3bc2d786959	5e65a872-9242-461a-82bc-8f1c717282de_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8KF	TCGA-VD-A8KF-01A	Primary Tumor
+ab62b825-5de3-4354-bcfd-1eb5f8c19c7a	3c9414e1-cd0f-4b96-938c-baac3e3121d7_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8KF	TCGA-VD-A8KF-10B	Blood Derived Normal
+fd79934a-49ef-4ddf-8589-ccdb2db6175f	10eeda0c-c4c3-4f47-a3af-599fdfcd62df_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EA	TCGA-V4-A9EA-01A	Primary Tumor
+fb6c8577-4c27-4771-b80f-a0c556f8da1a	3d700a8d-7760-4095-b537-1171444d1a5d_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9E7	TCGA-V4-A9E7-01A	Primary Tumor
+e1e0ccfb-d3a3-4fce-a4d4-2f68456d66bf	f7c514e5-ad5e-48f8-869e-0d2b8eb76d75_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9E7	TCGA-V4-A9E7-10A	Blood Derived Normal
+1cf16875-37c5-4f0e-8ed1-7f515e1b252a	399962e0-514d-4a15-aac7-fe0057428161_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8KE	TCGA-VD-A8KE-01A	Primary Tumor
+036f262f-c89e-4037-98ea-3760aa9ee053	839ee0d1-59b0-4818-bee2-43500ff6c271_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9F5	TCGA-V4-A9F5-10A	Blood Derived Normal
+afee7a80-530d-46b5-b3b3-2c1ab5cb805d	d2a0b6c4-e92f-4e51-903d-f9a589333178_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8KE	TCGA-VD-A8KE-10B	Blood Derived Normal
+c489afd9-8e9d-4721-bd69-b6bc0c318143	9ae3995b-b7fe-4dc4-8341-1c77f672636d_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9F5	TCGA-V4-A9F5-01A	Primary Tumor
+376c7b5b-6dc7-41e8-a807-6ab7af8f2bcb	2e676e3b-5251-46d4-967c-5b1ec0dbfabc_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9F5	TCGA-V4-A9F5-10A	Blood Derived Normal
+8dec946c-c7f1-4c1f-ab39-0f1cea67d0f4	b16ae1a2-403b-4573-a6b0-9cbb05cea149_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9ES	TCGA-V4-A9ES-01A	Primary Tumor
+26c85a0c-bc7f-43eb-b502-31646b8a1b6b	1e7614f9-0899-4aad-8877-ed6d2afca9bb_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-YZ-A982	TCGA-YZ-A982-01A	Primary Tumor
+4df5b356-1ec2-49e9-8708-29ab51537981	eacfdf6d-f844-4d5d-834f-b8fe45a438cb_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-YZ-A982	TCGA-YZ-A982-10A	Blood Derived Normal
+ed73400b-6a1e-4ba2-9fc9-7c38c6bfa298	ffcbb07d-5a90-4477-a6ec-76e40537f142_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EU	TCGA-V4-A9EU-10A	Blood Derived Normal
+fac1a357-9e1d-4e77-a5fa-14382485118e	480331c2-14dc-4011-869f-76a13c693f75_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EU	TCGA-V4-A9EU-10A	Blood Derived Normal
+223dd97f-72f0-4a30-bd86-f8d4a949f99c	4c43b0fd-d2d3-456f-afdd-ec90dbbd5fba_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EU	TCGA-V4-A9EU-01A	Primary Tumor
+a0ae5ac0-5038-4e26-bf8c-ba8ab38aada7	3c959b45-a769-4916-919a-df176705029d_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EU	TCGA-V4-A9EU-01A	Primary Tumor
+8bfb697f-75d1-487d-b707-945864c6d6c2	f5ff03d8-69da-49ec-8bf3-8132071649ac_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9E8	TCGA-V4-A9E8-01A	Primary Tumor
+c0da02f2-0386-4481-ad7a-5c3805b2d753	afc9cb33-ba20-4679-8e3c-46367a9127ab_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9E8	TCGA-V4-A9E8-01A	Primary Tumor
+09f0008b-54ef-4488-8ff7-0bec9e5a0524	8c247885-dc24-4797-a985-434c7be9458a_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9E8	TCGA-V4-A9E8-10A	Blood Derived Normal
+480843b8-337a-4077-97ad-fd84e6102e61	5aa343c9-7cf8-4c85-9e01-00762902fe9f_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9E8	TCGA-V4-A9E8-10A	Blood Derived Normal
+1a0f1957-7e20-40d8-98dd-55f57d20d5c0	7e133b8c-01b3-4758-96fc-aad8d49326ea_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9F3	TCGA-V4-A9F3-10A	Blood Derived Normal
+a9122121-b780-4e24-a3ac-1c8628baf374	df7ba0b3-860c-47af-b184-b7e1c8b61fae_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9F3	TCGA-V4-A9F3-01A	Primary Tumor
+ce3a6397-88d9-4b59-a279-0c6197165d6e	395ece1c-9831-48bf-a933-a4a94566cd9d_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9F3	TCGA-V4-A9F3-01A	Primary Tumor
+6a52112f-5741-4dda-a49f-84618b2d58ef	d43f0ea1-01b4-40e5-8a5e-31666d9d77a3_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9F3	TCGA-V4-A9F3-10A	Blood Derived Normal
+0ee0d108-526f-4442-b0fc-81567005cd4f	a313732a-3301-4854-83f2-060cc2f3a73b_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-YZ-A985	TCGA-YZ-A985-01A	Primary Tumor
+ad491769-efbf-4ea1-b200-647f1e9dfac6	bb83db0d-5b57-4346-9aad-f6368ee1560f_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-YZ-A985	TCGA-YZ-A985-10A	Blood Derived Normal
+9e59ac3b-9a58-4403-a92f-0531b56815e1	0e1d56ae-4213-4443-bdd3-a652cfc60104_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EE	TCGA-V4-A9EE-01A	Primary Tumor
+b1aa4cc2-76a0-4e29-85df-b058528c1352	9b0e05b2-a98f-4bc4-8878-5280f78a1dc5_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EE	TCGA-V4-A9EE-10A	Blood Derived Normal
+081130a4-7795-4747-bb7c-c3ab3ae06441	5c17cd11-baec-4b7c-948e-e2b209a407c4_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EE	TCGA-V4-A9EE-01A	Primary Tumor
+1039f519-baae-437e-8ee0-33f86b19be3c	40824e59-5099-4fe5-bf24-7b77948492f4_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EE	TCGA-V4-A9EE-10A	Blood Derived Normal
+e6134c50-d2f3-4c90-87e0-b89854604c6a	22b00a30-01ef-4366-8281-5ab63e5b6433_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EC	TCGA-V4-A9EC-01A	Primary Tumor
+55659004-1c9e-4df0-bf80-e00db8eb78b4	3ed594c4-5af5-4461-838d-367758d3ba55_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EC	TCGA-V4-A9EC-01A	Primary Tumor
+c58641a1-734b-4f63-94cd-29520749dcb7	3c02d306-c37a-4393-994d-c05d5b1c1fbd_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EC	TCGA-V4-A9EC-10A	Blood Derived Normal
+7cd7798d-d996-4a16-83d4-5a109536cd29	568769f5-b952-442e-b656-5ce4757e1095_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EC	TCGA-V4-A9EC-10A	Blood Derived Normal
+0c0b1262-3a1c-4bab-84d5-7ac29abbf1bb	62738049-fd2a-43fb-9b87-b08d3a79ce88_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-WC-A885	TCGA-WC-A885-10A	Blood Derived Normal
+d38489d7-844f-4863-bc63-605c424498a2	fe77aa05-dab7-4190-8b20-9a10c2c0f6b3_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-AA8O	TCGA-VD-AA8O-10B	Blood Derived Normal
+29bd40ab-be51-4156-9766-79ecac704e09	b0209a01-f6e4-4d96-bc6f-5ecc555166ea_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EA	TCGA-V4-A9EA-01A	Primary Tumor
+6f2e6478-7eb6-4530-b72d-20005104ddd8	7d1baf81-479a-4ec1-85c6-38562ad40844_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EA	TCGA-V4-A9EA-10A	Blood Derived Normal
+4f34d085-4354-4a32-8258-9a7d69ddd569	2a5fc793-ecf4-4c4e-9bdd-8909fde5dcf1_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8K8	TCGA-VD-A8K8-10A	Blood Derived Normal
+ffe8681d-afbe-4e81-aa50-6b63ee6ab820	cbcbd0d3-2964-4d54-9872-0442d37d9d04_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8KN	TCGA-VD-A8KN-01A	Primary Tumor
+50127537-5340-4231-a8e4-325f26233305	e0dbb55f-2753-4b23-b621-f8003b05d814_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8K8	TCGA-VD-A8K8-01A	Primary Tumor
+c80fa682-0d69-4bff-8e70-86cdbaf73a23	TCGA-VD-A8KN-01A-11D-A88P-36.WholeGenome.RP-1657.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8KN	TCGA-VD-A8KN-01A	Primary Tumor
+33748386-30ac-44bd-acb7-c679bea4fe3b	TCGA-VD-A8KN-10A-01D-A88P-36.WholeGenome.RP-1657.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8KN	TCGA-VD-A8KN-10A	Blood Derived Normal
+01d415af-3a55-49a8-9268-89eb8b4bbeb1	abfed748-0bf8-4e64-8ab1-2a4da1bb5a62_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-AA8M	TCGA-VD-AA8M-01A	Primary Tumor
+3c0ba61f-c82e-4d34-8e6d-0ea5e03adb54	b0ccf5d2-b334-4b7c-858e-53005b6fd0d7_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EI	TCGA-V4-A9EI-01A	Primary Tumor
+b3966229-9be4-4311-98f0-d9e552e79dde	10f9f3df-6ec7-4085-9cc5-ac053739e3d9_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EI	TCGA-V4-A9EI-10A	Blood Derived Normal
+d9733758-2660-459c-955f-63a259a0ab18	TCGA-WC-A883-01A-11D-A88P-36.WholeGenome.RP-1657.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-WC-A883	TCGA-WC-A883-01A	Primary Tumor
+1b13c843-8947-4d7d-b745-b4d0f22186f5	7a6baf7e-f309-4d2e-bccb-93935eeeb04f_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EF	TCGA-V4-A9EF-10A	Blood Derived Normal
+ae37ff14-e5f4-4796-8a5b-571f63d4572d	88b85f89-cf62-4beb-8c1c-042d1b199427_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EF	TCGA-V4-A9EF-10A	Blood Derived Normal
+8ade8ca2-15f8-478f-a590-4facec2d5efd	9e3b6ca4-5102-4c1e-99fd-3e149d0e4b6d_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-AA8O	TCGA-VD-AA8O-01A	Primary Tumor
+c0621d5a-fa45-4ac4-9d41-9a8b51e196ee	b61fc518-6297-4aa6-a97d-a1d330787ee5_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8K8	TCGA-VD-A8K8-01A	Primary Tumor
+2d8d5ccf-558d-4336-bbdb-cc7ebe5f2048	9936d431-da3c-4b14-af2c-ac91aad873fe_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EA	TCGA-V4-A9EA-10A	Blood Derived Normal
+cc458079-b637-4ddf-9b29-1a8e6e22f22b	81027108-022c-40bd-afeb-0f072aad1b08_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8KN	TCGA-VD-A8KN-10B	Blood Derived Normal
+db7edbaf-080d-4620-8055-098ae033fb48	71dea9ad-2278-4ce9-8481-c66e0c2faffb_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8K8	TCGA-VD-A8K8-10B	Blood Derived Normal
+c975c479-1475-493b-ae13-f0a15448c6f6	a83cec79-9cad-4d8d-babc-3e3f41a29367_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-AA8M	TCGA-VD-AA8M-10B	Blood Derived Normal
+9d46ffa5-d494-4f16-93be-c09acd931658	b83edee1-54bb-44d6-ae8f-f7104880dc29_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-WC-A882	TCGA-WC-A882-10A	Blood Derived Normal
+b1e05454-0f5c-4607-96b8-7305f9273dae	9fee14f7-e22c-4b63-9c98-482a5b2c759a_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-AA8M	TCGA-VD-AA8M-01A	Primary Tumor
+38cce168-b198-41fc-a1ef-2dc56e3508c4	4728efb8-39e2-49c2-a060-66edb562a396_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-AA8M	TCGA-VD-AA8M-10A	Blood Derived Normal
+adb8e23d-50ed-495b-883b-ad62346fda21	20c2aba6-0a2d-4960-aa0b-e2f8f6553e70_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EI	TCGA-V4-A9EI-10A	Blood Derived Normal
+3ef97bd7-4c29-436f-bd11-81e13a60f81d	3e733609-022f-4588-b84a-31e4020e5473_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-WC-A882	TCGA-WC-A882-01A	Primary Tumor
+c381b8d6-8245-428e-a5cf-85f7861bb096	cce48bec-a696-4a17-b702-776054a7ee02_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EI	TCGA-V4-A9EI-01A	Primary Tumor
+8be23dc7-16f5-4495-a19b-47332af61fcf	b7663119-e384-4671-84c5-45df89633c70_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9E7	TCGA-V4-A9E7-01A	Primary Tumor
+aa3a676f-8f83-42a2-91fc-0e64e75d5f1a	384e9070-8386-46b2-9643-2db59e8a5a5c_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9E7	TCGA-V4-A9E7-10A	Blood Derived Normal
+338d7d90-1aed-4291-aa12-f3636aaf8d1a	dd43faf9-a6ac-4ff2-8043-09b0a6decced_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EX	TCGA-V4-A9EX-10A	Blood Derived Normal
+f4f5e5d7-4593-4e4e-9665-5153b030c5be	0ce78ddd-32d4-43db-b7a4-fe7c3ad9563d_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EF	TCGA-V4-A9EF-01A	Primary Tumor
+db4213a6-73aa-4cf5-b586-b0638d7e4d35	c3d3f69d-3c7f-4085-a9f9-15bd0917be66_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-AA8Q	TCGA-VD-AA8Q-10B	Blood Derived Normal
+d1c04fcb-2d60-4857-b8a5-9247b50edbbd	30a1a2c4-9050-4c4c-93a7-852e1b1da8e4_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-AA8Q	TCGA-VD-AA8Q-01A	Primary Tumor
+c4703320-7ba8-4aed-8c1f-809b7fc64851	90011f3f-6add-4bf5-b697-88e983846fd2_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EK	TCGA-V4-A9EK-01A	Primary Tumor
+43b8e8fb-2d61-4cbe-811c-4da1de8a78b5	0fc67748-0ca5-466f-b96a-3a483e402c5a_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-WC-A87W	TCGA-WC-A87W-01A	Primary Tumor
+3f6d462e-8491-47cd-9875-75ff85ee8e45	671d11b3-f6e7-4645-b3f9-8a0da039b296_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-RZ-AB0B	TCGA-RZ-AB0B-01A	Primary Tumor
+205bbcc8-ec9b-4a9a-af56-c1946a7b63b2	bacad191-0027-4f1a-a40b-ff0a0171328b_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9F8	TCGA-V4-A9F8-01A	Primary Tumor
+be7cea84-91cc-4a27-b62f-0ee2eb844b08	a1939a9b-a7c6-48bc-8686-15651e23503c_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-WC-A888	TCGA-WC-A888-01A	Primary Tumor
+81adb260-6ba7-480b-8d93-9595185813b2	544667f7-22d1-4464-a0c7-c40ad491c3a7_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8KJ	TCGA-VD-A8KJ-10B	Blood Derived Normal
+c4c2d57c-7f5d-49b1-9b82-e114f14b773a	4afa2304-532f-45f8-a7ee-fcf0c0b4b0d3_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-WC-A87W	TCGA-WC-A87W-10A	Blood Derived Normal
+6d11e1cc-35c6-42ff-a03c-0173cb70359c	85fb40b2-a81f-48bd-99fd-50406c00b57d_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8KL	TCGA-VD-A8KL-10A	Blood Derived Normal
+087da6a6-af24-4c01-8ded-dccc22dfd97e	5825de24-25cd-4dc6-b900-8b770981c500_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9ES	TCGA-V4-A9ES-01A	Primary Tumor
+efcfc746-a2bd-439b-89a6-2b7eb8c99042	11e5d5db-7e3d-4b04-992a-e61ff959aa66_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9F7	TCGA-V4-A9F7-10A	Blood Derived Normal
+671bca65-70cb-4de3-a0cb-f2656ffbd9ba	8f2e2129-15ca-400d-821e-5cad78055695_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9ED	TCGA-V4-A9ED-01A	Primary Tumor
+e72ecf95-c8d3-4563-9e3f-6b53e6f453de	f756f97d-98d0-4f95-bc82-24c89720653f_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9ED	TCGA-V4-A9ED-10A	Blood Derived Normal
+d38ff603-069a-4284-9fa3-7b98c83a9119	9fce0f30-7229-466a-a5a4-4c72203d80e1_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-AA8N	TCGA-VD-AA8N-01A	Primary Tumor
+372a1607-ff9e-4a4b-acd9-18cf9df1f57d	8cdb01c8-c2d9-40db-84ee-00b50b9ec314_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9ED	TCGA-V4-A9ED-01A	Primary Tumor
+b5595a81-d43f-4ee3-b9ef-8b92faa6f3ba	97dbe95d-0eaf-4fa5-823e-61f999d4bb58_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9E5	TCGA-V4-A9E5-10A	Blood Derived Normal
+d920e902-ef7d-4047-95df-274fda24b389	20a42a42-c2f6-4918-b702-76d70d57cb51_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EZ	TCGA-V4-A9EZ-10A	Blood Derived Normal
+26962490-0f7a-42ba-9b1c-bb6e6720411f	fdfea8dc-451b-4493-b7ed-dbf97d7c1d78_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EY	TCGA-V4-A9EY-01A	Primary Tumor
+7982349a-509f-4993-b4f9-7dc38e1a5769	1ec89ab1-b844-42ab-8a4b-25ad5430fa5e_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-YZ-A984	TCGA-YZ-A984-10A	Blood Derived Normal
+a5131d38-66b4-4a3a-9ac5-d79df1076b38	74730083-874a-4af9-baae-457e37305cb9_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-YZ-A984	TCGA-YZ-A984-01A	Primary Tumor
+1bff3672-c3ea-46cb-988a-d17304f8bae5	041df0b4-6342-4f1b-acc9-6ee6309574e9_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-WC-AA9E	TCGA-WC-AA9E-10A	Blood Derived Normal
+b92156a8-5128-4e63-ae61-e6a646832bae	01aa5afa-5877-45ca-98db-9547b99b30c5_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EK	TCGA-V4-A9EK-01A	Primary Tumor
+ddbb7aec-e0f0-412f-b827-694f95fc2de5	238cc1a6-47ad-4797-b2a5-52b276d27312_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8KI	TCGA-VD-A8KI-01A	Primary Tumor
+7ae99e68-f726-4cc2-bd52-e489a9b60d4e	6c79bc69-b1e2-4e9c-9b18-1b2eac188c02_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8K7	TCGA-VD-A8K7-01B	Primary Tumor
+0c8af371-36f8-4ec7-b404-6289fe4339fc	14bedb79-18c3-4422-8494-de9505234b4b_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9F8	TCGA-V4-A9F8-10A	Blood Derived Normal
+228a10ee-6d7d-4aac-8d88-0199b2492054	07951fb2-9d80-4090-98af-5eae6a466b10_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-WC-A87U	TCGA-WC-A87U-10A	Blood Derived Normal
+b00c8d68-d4a8-4d62-b7a0-043f03540d61	0311a38d-86c7-446e-9342-1e3fe02b04b7_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8KB	TCGA-VD-A8KB-10C	Blood Derived Normal
+867de81e-077b-40a5-91c6-17caa8bda1d9	50022aea-cb52-4402-9fc2-c8a4ec1600ff_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EL	TCGA-V4-A9EL-01A	Primary Tumor
+e59787b9-66df-4aa2-926c-b1afae233aca	15e1bef9-9abe-4fb8-a111-fe6de71fbd92_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EL	TCGA-V4-A9EL-10A	Blood Derived Normal
+041ece26-13da-415e-9c57-70673e9a9317	9f40752d-279d-4f01-8ca0-ac05f06d2e34_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EM	TCGA-V4-A9EM-01A	Primary Tumor
+19921479-965e-49d9-ab3b-0a32155b195e	9e5b95ab-cb75-4193-ab14-da40722109c3_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9F0	TCGA-V4-A9F0-10A	Blood Derived Normal
+c9bb4067-31eb-42c9-855e-f5d44a04798f	5c250b86-8285-4815-b946-fcbe8f86b571_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-WC-A88A	TCGA-WC-A88A-01A	Primary Tumor
+51272502-f31b-48b7-9bba-063eab00d312	45c03888-b2dd-42c0-a106-84ec139941b2_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-WC-A88A	TCGA-WC-A88A-10A	Blood Derived Normal
+739ac2ff-34a5-43df-bc94-3327978bb062	be6434d4-7214-4ce1-b31b-1924d6eb3a14_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-WC-A888	TCGA-WC-A888-10A	Blood Derived Normal
+6725c0d3-853d-4f6b-98d5-b9f98554cb80	c752f975-1e44-4edf-87ba-4823698ac3f5_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9F0	TCGA-V4-A9F0-01A	Primary Tumor
+34525482-474c-439c-8beb-72581e27171d	2a1955c2-f55d-48ef-a013-aa69288c3a0c_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EM	TCGA-V4-A9EM-01A	Primary Tumor
+6b7e057b-9096-4b3e-8beb-b69fa2641060	cff9896e-d76c-41d6-812a-33461402fa5d_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9F7	TCGA-V4-A9F7-10A	Blood Derived Normal
+c0d3c85d-dd0c-4889-a79c-1a62bd1a7164	bd061e25-b202-4d5b-a321-9e5311a6c868_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9ED	TCGA-V4-A9ED-10A	Blood Derived Normal
+28f57492-dc98-46d2-a715-12d919e5bb6c	4e9fa5ea-268d-44d0-9391-62d23cb59411_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-WC-A881	TCGA-WC-A881-10A	Blood Derived Normal
+c9d9d6b5-1993-4126-95f8-3dd609573a9f	314ee286-7e1a-4cf8-a39d-d12e23c6daab_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V3-A9ZX	TCGA-V3-A9ZX-01A	Primary Tumor
+1a35d222-a755-45fc-a287-aea11170c06d	4d97fc36-f932-4cf3-9f7f-fc802442fb00_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8KJ	TCGA-VD-A8KJ-01A	Primary Tumor
+f47dc1fd-a089-49de-a5a4-61b4b2333996	41cd2006-82f6-4a0a-a164-1b1fbad8a4de_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V3-A9ZX	TCGA-V3-A9ZX-01A	Primary Tumor
+08e55fbf-fcb0-4931-9ad9-f12b2819ab94	801fef4e-6342-4d48-88d1-e4d7b6311cae_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-WC-A884	TCGA-WC-A884-10A	Blood Derived Normal
+b0e39e7c-04c7-467b-8152-c789162c5069	347dba4e-7ca8-4432-a0f7-90f9009f8aa3_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8KD	TCGA-VD-A8KD-01A	Primary Tumor
+8a5c6c96-0b5f-4e08-b9d5-cc3c387a5752	26d2fadb-17c1-4e37-ba9d-1ab7add71eb8_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8KD	TCGA-VD-A8KD-01A	Primary Tumor
+29ec5a91-dc17-4a4a-9474-ae1d0010def2	c3a48720-b5cf-44d8-9a22-973fd36320ed_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8KF	TCGA-VD-A8KF-10A	Blood Derived Normal
+04e13e77-1609-4ae0-8d65-7f5ead158318	90798b4d-cee0-4849-bf46-65b0ec26c4a8_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8KL	TCGA-VD-A8KL-10B	Blood Derived Normal
+1ca4ba74-15bd-4f98-bd92-46864f32d80c	ab5915cc-3a16-4679-9a5e-c0e842b1411e_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8KL	TCGA-VD-A8KL-01A	Primary Tumor
+346bf54c-0431-4192-a0b5-66d4b3da5135	bf083593-194a-4549-aff8-7a5188ef4082_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-AA8O	TCGA-VD-AA8O-10A	Blood Derived Normal
+e0215019-129f-4571-a55b-019080bbe693	8eb5960a-3fdc-4641-af72-c80755429c8d_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8KF	TCGA-VD-A8KF-01A	Primary Tumor
+ca440b7f-ee52-4b3b-92e7-eecf8c5bd7a9	6e472437-0331-4b75-bbef-fd773e94a7b9_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-WC-A880	TCGA-WC-A880-10A	Blood Derived Normal
+fbdb8566-572c-4728-ab7b-70e8b891de24	a08a9a90-323b-48ab-89c8-4805fe59bc70_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EV	TCGA-V4-A9EV-01A	Primary Tumor
+97f5aaac-e770-401f-bdf7-38e151df7103	acc3a9e5-d75e-491d-8df2-d37482e48cd5_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EV	TCGA-V4-A9EV-01A	Primary Tumor
+c41568da-d97d-4677-a492-5909ad646df9	a8fc420d-3849-4dd0-bfb3-48de9ffba2ca_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-WC-A87T	TCGA-WC-A87T-10A	Blood Derived Normal
+3f35990c-cdbb-4d96-95f9-487b4c3d99d3	4933c77c-4a42-4cca-991b-0da08b39fde0_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8K9	TCGA-VD-A8K9-10B	Blood Derived Normal
+2d21665c-0451-45a4-8063-e4e280e081b8	28b2a22c-5d33-4906-8217-c94e1b9317e8_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EW	TCGA-V4-A9EW-10A	Blood Derived Normal
+2c43adb7-f5d0-4adb-9ee7-b68a892ce4f6	6b52c651-649f-41c5-b0dd-197f77f2aa10_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EW	TCGA-V4-A9EW-01A	Primary Tumor
+afe8bb84-3a4e-48d9-8fb1-498d54151cfc	0a3979cb-b5e3-48e3-b100-8ac7dc0bb7dd_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8KK	TCGA-VD-A8KK-10B	Blood Derived Normal
+3d84f304-1f74-41b9-b493-25762378b778	a4f34334-af17-443c-88a4-88f7d32dc738_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8KK	TCGA-VD-A8KK-01A	Primary Tumor
+ad1c13e0-bbff-450e-90ef-36aac67aa27f	b5c45029-cc04-4d7b-bd12-b2df0acbd370_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-AA8P	TCGA-VD-AA8P-10A	Blood Derived Normal
+1d7506cd-2f40-4a3d-9c2e-1929ab5ac3f4	395d9aa0-fd35-4688-86ed-f0dbbf7247eb_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-AA8P	TCGA-VD-AA8P-10A	Blood Derived Normal
+eea5a8fe-e607-47d8-9e1b-c243c378721e	6331804a-dc4d-4244-9c0d-a5cec20e593c_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-AA8P	TCGA-VD-AA8P-01A	Primary Tumor
+a4e32a62-5380-475f-8aa1-cb0fa50d10c8	a5e17441-78d1-4307-9252-38d1e255aac4_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EJ	TCGA-V4-A9EJ-01A	Primary Tumor
+aec2e2c1-6a0c-4353-b9b7-c7107f79861c	42b46c86-61f4-4c2e-9ec3-0ed0113f3ec3_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EJ	TCGA-V4-A9EJ-01A	Primary Tumor
+7484c458-b25a-46a2-a5b2-0598e035af12	720e6b3c-c272-4d59-b28a-ea878e339a9e_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EH	TCGA-V4-A9EH-10A	Blood Derived Normal
+b96cab86-5550-468d-9fc3-137124aae554	2d56c517-0383-4cd6-9cc1-1e15753465a0_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EJ	TCGA-V4-A9EJ-10A	Blood Derived Normal
+1f12cd00-6ab5-4f0a-a2bd-724f25035a7d	ecbb2df0-eaca-41be-b37a-a790c6ef8f9c_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8K9	TCGA-VD-A8K9-01A	Primary Tumor
+2c34f30d-f3e1-4161-b471-b3a7be7c3135	6c06deb7-06e1-4e51-96ba-52738f0c15b4_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-WC-A87T	TCGA-WC-A87T-01A	Primary Tumor
+a7038635-5801-4232-9e8e-ab1dd6f83d5a	d52917bc-a225-450a-856f-1f2cf40b4c8b_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8K9	TCGA-VD-A8K9-10A	Blood Derived Normal
+ff8caa7e-18c9-4346-bbaa-018c11d08e8d	694f8866-9e08-48ec-83b8-a7a1ce9da3a1_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EW	TCGA-V4-A9EW-01A	Primary Tumor
+28691bef-93e2-459f-8ae4-31775e3d2c44	5487e440-f84b-45bf-826e-5bf4ce1cd962_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8KG	TCGA-VD-A8KG-10A	Blood Derived Normal
+198dc913-f989-49c3-95fa-b186923a6a36	376a6943-6fcc-406b-b543-4c0c385d2e22_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8KG	TCGA-VD-A8KG-01A	Primary Tumor
+bcb10a91-288c-41b5-92c1-0cd9385ccfde	148cb31d-073b-466b-a296-0561f455ff53_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-A8KG	TCGA-VD-A8KG-01A	Primary Tumor
+35d87520-9f03-47d2-aec8-88577b30d098	2845403a-205d-4a76-bb78-f553d8db61c1_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-VD-AA8P	TCGA-VD-AA8P-01A	Primary Tumor
+12458ed9-eb7d-4b46-a679-83f112afd455	1ef9e9d5-f7b9-48ba-ba1b-2b0572912f43_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EH	TCGA-V4-A9EH-01A	Primary Tumor
+d5a387e7-9ae2-4daa-b771-094378742990	8416fcbc-f166-42c4-a25a-dea20f77e6e7_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V3-A9ZY	TCGA-V3-A9ZY-10A	Blood Derived Normal
+f6b469dc-23dc-42ae-8776-a2909216acfd	3de85f46-8a0c-47c3-9aae-7c5cfa13e6a2_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V3-A9ZY	TCGA-V3-A9ZY-10A	Blood Derived Normal
+988c24d3-6c12-4dc1-921f-1378934be800	ac2ba0cc-c007-44bf-8c99-4c88d55c022e_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EH	TCGA-V4-A9EH-01A	Primary Tumor
+df4e9619-af9f-4345-a35a-23b64be6bb18	55dafc79-ca66-40bf-a652-649ede4e9b8e_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	TCGA-UVM	TCGA-V4-A9EO	TCGA-V4-A9EO-01A	Primary Tumor
+f8c57a4a-1137-432a-a286-9b38df10245e	f2bde313-0e9b-4356-abdb-7268d578e542_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0595-C43	HCM-BROD-0595-C43-06A	Metastatic
+1f8d65d7-9b38-4d8e-bf53-ff7b0ccbce8c	ff0e8af9-b7db-47f5-bdc3-3173f89495cd_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0595-C43	HCM-BROD-0595-C43-85M	Next Generation Cancer Model
+2673122c-e3f0-4f48-acd8-4b8eeb7925a6	227f8661-12ca-4af3-a53e-277540215488_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0679-C43	HCM-BROD-0679-C43-10A	Blood Derived Normal
+d8721317-fb85-4f33-a623-ade8f59e1e04	81afe3ab-467f-4661-9bc5-9761490cecdd_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0679-C43	HCM-BROD-0679-C43-85M	Next Generation Cancer Model
+38ddc430-a00a-4865-b039-50aceb4a2378	8adc893c-8bb2-4fdb-b716-40845a595e21_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0339-C43	HCM-BROD-0339-C43-10A	Blood Derived Normal
+f3d07d60-f5bb-4763-8528-e7a7c041aa7e	22b08a54-e671-4940-8e12-84ea787c646e_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0834-C43	HCM-BROD-0834-C43-85M	Next Generation Cancer Model
+bef34c5c-391b-4c21-a40c-378be2bbdb23	0eeb4bcb-3066-4898-9f00-c06a74c2d840_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0834-C43	HCM-BROD-0834-C43-10A	Blood Derived Normal
+ce94f5ff-c56a-46d8-a5f4-637c974f5c26	96db7814-22c5-4aaa-a370-c57f1b15f86f_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0594-C43	HCM-BROD-0594-C43-06A	Metastatic
+8d3c9b4b-f88c-4168-b447-5e04656245e5	87afffdd-0116-4577-944d-826f0539cf96_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0716-C43	HCM-BROD-0716-C43-85N	Next Generation Cancer Model
+ee8b9828-fcd1-4fe6-867b-53f29e6fb91d	80236d4d-9f22-4a9e-8330-e6edf7ab30dd_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0594-C43	HCM-BROD-0594-C43-85M	Next Generation Cancer Model
+704a9e6e-1818-4ec6-aa4d-edc8fa63be82	12a28c4d-8785-473b-92a1-45ef4b110f3e_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0332-C43	HCM-BROD-0332-C43-85M	Next Generation Cancer Model
+f8f55c57-326b-44cf-a640-09548d5e5698	85fce07e-37e0-47f2-b111-9eecb2a0914f_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0679-C43	HCM-BROD-0679-C43-06A	Metastatic
+75f32849-0b79-49d5-a6f1-d8c98b9c61fd	ca35c0b9-62a7-4f04-b930-918d4b4867eb_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0758-C43	HCM-BROD-0758-C43-06A	Metastatic
+0cebf414-ab9e-41d0-9fa0-b075b31b6765	a1d401ce-773d-4836-b632-3a3efeeade6e_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0834-C43	HCM-BROD-0834-C43-06A	Metastatic
+f3f57185-bbf1-4d6d-82c5-19bca23564ab	HCM-BROD-0870-C43-06B-11D-A881-36.WholeGenome.RP-1765.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0870-C43	HCM-BROD-0870-C43-06B	Metastatic
+15252581-e1f2-45ff-abbb-209233102439	HCM-BROD-0870-C43-85N-01D-A881-36.WholeGenome.RP-1765.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0870-C43	HCM-BROD-0870-C43-85N	Next Generation Cancer Model
+82620b2a-e656-45ee-8641-2e317587194b	HCM-BROD-0870-C43-10A-01D-A881-36.WholeGenome.RP-1765.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0870-C43	HCM-BROD-0870-C43-10A	Blood Derived Normal
+07c5c25f-6177-41e6-85ca-bb3c51603ea2	c34938b3-41d9-4ddd-83c0-6e4e44a2b823_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0716-C43	HCM-BROD-0716-C43-10A	Blood Derived Normal
+a9eb1135-3520-4e20-9e8c-13263252c0ac	HCM-BROD-0710-C43-06C-11D-A881-36.WholeGenome.RP-1765.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0710-C43	HCM-BROD-0710-C43-06C	Metastatic
+2d46f1bd-755b-4db6-a3c7-020b9b385742	5cd6a1be-a908-46d4-b936-7583eb6253ec_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0642-C43	HCM-BROD-0642-C43-85N	Next Generation Cancer Model
+2b7f84d5-0aca-485f-a313-30ec1b1edd9e	2745e097-7e35-4042-9de1-b4487b495844_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0594-C43	HCM-BROD-0594-C43-10A	Blood Derived Normal
+529c7a68-eb36-47f3-81a5-71b9cd410140	HCM-BROD-0724-C43-06A-01D-A85C-36.WholeGenome.RP-1765.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0724-C43	HCM-BROD-0724-C43-06A	Metastatic
+b85fb4a7-64a4-4408-9c9c-7b9d836de285	5baf03a1-eb69-4727-88d4-b060e18fb083_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0226-C43	HCM-BROD-0226-C43-10A	Blood Derived Normal
+1d529770-0826-4c14-9c51-6e2f3176d5db	8e4a9a37-f5b3-4720-86e9-8999126c2a6f_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0569-C43	HCM-BROD-0569-C43-10A	Blood Derived Normal
+c33def36-e217-455d-acb3-dc87afa72756	62565e48-482f-43a3-8345-f126a906fcf9_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0643-C43	HCM-BROD-0643-C43-10A	Blood Derived Normal
+07397a98-9685-4286-88d0-b5747b7dfa96	31b78fae-edae-4807-81a3-f93574a4a097_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0721-C43	HCM-BROD-0721-C43-85M	Next Generation Cancer Model
+93eca6d6-2ffb-4563-a3b7-65eb6020987a	d690fd97-1969-49ef-bd91-9bd75f9f7661_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0721-C43	HCM-BROD-0721-C43-10A	Blood Derived Normal
+1788c36a-468e-49b1-b4e8-92a150447a07	HCM-BROD-0724-C43-85M-01D-A85C-36.WholeGenome.RP-1765.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0724-C43	HCM-BROD-0724-C43-85M	Next Generation Cancer Model
+05b4d5d0-ba23-4fa7-9736-5e5ce9d508b4	HCM-BROD-0724-C43-10A-01D-A85C-36.WholeGenome.RP-1765.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0724-C43	HCM-BROD-0724-C43-10A	Blood Derived Normal
+f5a2ba9d-488a-47bb-8bd3-c541776264c5	8cb2d622-fab6-47a1-8545-5d225d065614_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0694-C43	HCM-BROD-0694-C43-10A	Blood Derived Normal
+60c3be75-26c2-496b-8d12-266bddac464e	7973f779-51c0-4402-adb9-38d83746d8b1_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0677-C43	HCM-BROD-0677-C43-85M	Next Generation Cancer Model
+48f80eb8-9fd1-4952-ae14-80b9337c07bf	abe38d9e-f1f8-4e06-90e2-c06fa5b65007_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0226-C43	HCM-BROD-0226-C43-85M	Next Generation Cancer Model
+ba156d05-30c7-4337-9b47-58727292bd9f	eda70710-057b-47dc-8a3b-b070b51e5cf7_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0643-C43	HCM-BROD-0643-C43-06A	Metastatic
+8c79f8db-6623-48fa-8c93-1ccfd80c7e49	e44bf205-ac59-4a29-bf50-1b9da39671a4_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0569-C43	HCM-BROD-0569-C43-85M	Next Generation Cancer Model
+b51db8a3-6f59-4dd3-8b0c-80707fa0d527	cb9b9bbe-34fb-451a-923d-4b9f6103b3cd_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0339-C43	HCM-BROD-0339-C43-85M	Next Generation Cancer Model
+a0612faf-cc78-4c97-83ba-4830b9715a74	8b878538-7036-4f10-a4a6-619151156020_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0339-C43	HCM-BROD-0339-C43-06A	Metastatic
+02df9085-6b04-418f-9184-80c8d61585e5	d1567468-ec2c-4aae-ab8e-7487023fdae0_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0643-C43	HCM-BROD-0643-C43-85N	Next Generation Cancer Model
+1b17c2cf-e1f8-4dc3-9d22-eade56661590	bb21ec5d-7bc0-4329-9315-7ce37379e7f0_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0758-C43	HCM-BROD-0758-C43-85N	Next Generation Cancer Model
+29e0b286-7a06-422f-9cc9-e8094b03cdf5	14ec708e-68de-4613-86fa-3214337f37af_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0758-C43	HCM-BROD-0758-C43-10A	Blood Derived Normal
+20ee517f-9bd1-4e7a-9541-d7df4d47b82f	6410ddef-a4aa-4e43-8206-2f6abf8b0cc9_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0716-C43	HCM-BROD-0716-C43-06B	Metastatic
+0edf20f0-258b-48ee-b51e-d0c65d15a904	HCM-BROD-0710-C43-85M-01D-A881-36.WholeGenome.RP-1765.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0710-C43	HCM-BROD-0710-C43-85M	Next Generation Cancer Model
+fe28fa6c-d791-414b-aa94-de6004678cdf	HCM-BROD-0710-C43-10A-01D-A881-36.WholeGenome.RP-1765.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0710-C43	HCM-BROD-0710-C43-10A	Blood Derived Normal
+a845aa01-2df2-4a4b-a410-9183cdd09cd4	5a089853-b80b-4a5f-9eaf-183cb48234eb_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0642-C43	HCM-BROD-0642-C43-10A	Blood Derived Normal
+dd65fd53-248e-4c33-9ade-824f0da51577	ce03be9d-fe84-4323-bc89-ff61d7156de1_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0642-C43	HCM-BROD-0642-C43-06A	Metastatic
+9c64c6ed-4589-4966-aad4-d4567e9f3496	e51cab14-52dc-4c89-bbc6-e5b0925f3589_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0694-C43	HCM-BROD-0694-C43-85N	Next Generation Cancer Model
+bf69a1e5-c9b8-4cf8-a2ee-837126db331c	c54ad8cf-0021-43f9-b264-c23c56ff0e2a_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0694-C43	HCM-BROD-0694-C43-06A	Metastatic
+f5708ed1-09a0-428b-8add-fbfb14e0f534	0c821f66-0539-4f2f-9c92-b6e4455562ae_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0677-C43	HCM-BROD-0677-C43-12A	Saliva
+319cd11f-d4b8-4e5e-a6a9-2b0a05836855	f67de234-1628-4741-ba97-e32be6418945_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0595-C43	HCM-BROD-0595-C43-10A	Blood Derived Normal
+d5d4d062-f5b1-4a11-b61a-64b3c12b942f	68b0d1e1-1da8-4331-9178-89a736b07fff_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0569-C43	HCM-BROD-0569-C43-06A	Metastatic
+5d8e0c25-e701-458f-a3f0-4927af509418	342a6e9c-51a4-4044-9cbd-37aee9573ca7_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0481-C43	HCM-BROD-0481-C43-10A	Blood Derived Normal
+84a243f8-b04f-4c0e-94c7-01a7f0793dce	21fecba2-d4fa-4eac-a016-638103751db3_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0481-C43	HCM-BROD-0481-C43-85M	Next Generation Cancer Model
+008f05ea-29c9-42e9-9b7b-6a9fe065185a	51c2fa6b-eefa-4510-9a9c-adcc06865865_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0557-C43	HCM-BROD-0557-C43-10A	Blood Derived Normal
+35999923-5af0-432b-a687-3ad259b6eeee	2a96d2b9-f90a-4ef5-ab05-5554bb148a9a_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0227-C43	HCM-BROD-0227-C43-10A	Blood Derived Normal
+f72d1500-92b8-4095-bc3b-adf52d3d188d	2f1e377a-74d2-425d-841e-dec6329c9cc3_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0227-C43	HCM-BROD-0227-C43-85M	Next Generation Cancer Model
+8d91f111-5a4e-4028-8378-93c4c92313b6	180a3a72-1e5a-405a-8d2a-010895ff8a71_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0561-C43	HCM-BROD-0561-C43-06A	Metastatic
+fe6903b6-1ae3-4498-b83e-9713e4da0592	e62a70bf-a432-4582-a229-8afa435d5d36_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0561-C43	HCM-BROD-0561-C43-85M	Next Generation Cancer Model
+041c898e-9739-45f7-b32d-e6be505d48ef	e65a612d-2da8-4795-8fde-31509667d3f4_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0561-C43	HCM-BROD-0561-C43-10A	Blood Derived Normal
+e1deb9ee-9c0a-4a83-91d5-90a87277c2c1	724da8ab-341f-45f0-afe0-e1f41acb7def_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0702-C43	HCM-BROD-0702-C43-10A	Blood Derived Normal
+1738ff48-66b1-4aa2-ac98-7565dc306a7e	b7cecd5a-7213-45c2-98bd-9efe487220a5_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0702-C43	HCM-BROD-0702-C43-85M	Next Generation Cancer Model
+c5f37c55-4d82-4039-bc56-4332e2aad79b	06d1a983-858f-454a-9b0d-448bf29670cc_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0335-C43	HCM-BROD-0335-C43-85M	Next Generation Cancer Model
+0be5d835-9fea-49f9-a360-f04ff8279336	cfe75dfb-b401-44e4-b56b-13df9527d224_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0223-C43	HCM-BROD-0223-C43-85M	Next Generation Cancer Model
+966b8dce-46fc-4571-930f-b1bed85986da	997e1ccd-6fd1-4dfd-8816-f9c26d93aeed_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0223-C43	HCM-BROD-0223-C43-06A	Metastatic
+df8963fb-154e-4ed1-af8f-ada3252afe1d	31c27aec-0049-4da6-b748-0dd5d93d76c5_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0335-C43	HCM-BROD-0335-C43-10A	Blood Derived Normal
+11fd95a1-0857-4e6e-bd82-573f4cc964ef	14ae07f7-f2da-4b2a-96c8-298ecc0ff55e_wgs_gdc_realn.bam	Sequencing Reads	Aligned Reads	HCMI-CMDC	HCM-BROD-0223-C43	HCM-BROD-0223-C43-10A	Blood Derived Normal
