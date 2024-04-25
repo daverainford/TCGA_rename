@@ -5,7 +5,6 @@ import argparse as arg
 # Add command line arguments
 parser = arg.ArgumentParser()
 parser.add_argument('--files', type=str, help = "Path to directory containing TCGA files.")
-parser.add_argument("--file_suffix", type = str, help = "Type of file (bam, tsv, vcf, etc.)")
 parser.add_argument('--sample_sheet', type=str, help = "Path to TCGA sample-sheet.")
 args = parser.parse_args()
 
@@ -21,15 +20,15 @@ mapping = {}
 # Iterate over files in sample sheet and create our lab ID from metadata and map to file id from samples sheet
 for name, id, sample in zip(sample_data["File Name"], sample_data["Case ID"], sample_data["Sample Type"]):
     if sample == "Primary Tumor" or sample == "Metastatic":
-        mapping[name] = f"{name}_{id}_T.{args.file_suffix}"
+        mapping[name.split('_')[0]] = f"{name.split('_')[0]}_{id}_T"
     if sample == "Blood Derived Normal":
-        mapping[name] = f"{name}_{id}_N.{args.file_suffix}"
+        mapping[name.split('_')[0]] = f"{name.split('_')[0]}_{id}_N"
 
 # Iterate over files, ignoring .DS_Store, and rename them according to the dictionary mapping.
 for file in files:
     if file == '.DS_Store':
         continue
-    os.rename(os.path.join(args.files, file), os.path.join(args.files, mapping[file]))
+    os.rename(os.path.join(args.files, file), os.path.join(args.files, f"{mapping[file.split('_')[0]]}.{file.split('.')[-1]}"))
 
 
 
