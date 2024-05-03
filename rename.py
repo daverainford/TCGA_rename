@@ -16,19 +16,21 @@ files = os.listdir(args.files)
 
 # Create empty dictionary for use in ID mapping
 mapping = {}
+try:
+    # Iterate over files in sample sheet and create our lab ID from metadata and map to file id from samples sheet
+    for name, id, sample in zip(sample_data["File Name"], sample_data["Case ID"], sample_data["Sample Type"]):
+        if sample == "Primary Tumor" or sample == "Metastatic":
+            mapping[name.split('_')[0]] = f"{id}_T"
+        if sample == "Blood Derived Normal":
+            mapping[name.split('_')[0]] = f"{id}_N"
 
-# Iterate over files in sample sheet and create our lab ID from metadata and map to file id from samples sheet
-for name, id, sample in zip(sample_data["File Name"], sample_data["Case ID"], sample_data["Sample Type"]):
-    if sample == "Primary Tumor" or sample == "Metastatic":
-        mapping[name.split('_')[0]] = f"{id}_T"
-    if sample == "Blood Derived Normal":
-        mapping[name.split('_')[0]] = f"{id}_N"
-
-# Iterate over files, ignoring .DS_Store, and rename them according to the dictionary mapping.
-for file in files:
-    if file == '.DS_Store':
-        continue
-    os.rename(os.path.join(args.files, file), os.path.join(args.files, f"{mapping[file.split('_')[0]]}.{file.split('.')[-1]}"))
+    # Iterate over files, ignoring .DS_Store, and rename them according to the dictionary mapping.
+    for file in files:
+        if file == '.DS_Store':
+            continue
+        os.rename(os.path.join(args.files, file), os.path.join(args.files, f"{mapping[file.split('_')[0]]}.{file.split('.')[-1]}"))
+except:
+    continue
 
 
 
